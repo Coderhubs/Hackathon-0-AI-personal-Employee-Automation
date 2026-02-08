@@ -74,6 +74,10 @@ class NeedsActionHandler(FileSystemEventHandler):
 
     def process_metadata_file(self, metadata_path):
         """Process metadata file by summarizing content to dashboard and moving files to Done"""
+        # Check if file still exists (avoid race condition)
+        if not os.path.exists(metadata_path):
+            return  # File already processed and moved, skip silently
+
         # Extract original filename from metadata filename
         metadata_filename = os.path.basename(metadata_path)
         original_filename = metadata_filename.replace('_metadata.md', '')
