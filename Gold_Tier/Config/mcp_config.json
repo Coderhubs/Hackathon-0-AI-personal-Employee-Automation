@@ -1,0 +1,52 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "C:/Users/Dell/Desktop/New folder (3)/AI_personal_Employee/Gold_Tier"],
+      "description": "Gold Tier filesystem access"
+    },
+    "email": {
+      "command": "python",
+      "args": ["Gold_Tier/mcp_servers/email_server.py"],
+      "description": "Email MCP server for Gmail integration",
+      "env": {
+        "GMAIL_API_KEY": "${GMAIL_API_KEY}"
+      }
+    },
+    "browser": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"],
+      "description": "Browser automation for web interactions"
+    },
+    "social_media": {
+      "command": "python",
+      "args": ["Gold_Tier/mcp_servers/social_media_server.py"],
+      "description": "Social media MCP server (Facebook, Instagram, Twitter)",
+      "env": {
+        "FACEBOOK_TOKEN": "${FACEBOOK_TOKEN}",
+        "INSTAGRAM_TOKEN": "${INSTAGRAM_TOKEN}",
+        "TWITTER_API_KEY": "${TWITTER_API_KEY}"
+      }
+    },
+    "odoo": {
+      "command": "python",
+      "args": ["Gold_Tier/mcp_servers/odoo_server.py"],
+      "description": "Odoo ERP integration via JSON-RPC",
+      "env": {
+        "ODOO_URL": "${ODOO_URL}",
+        "ODOO_DB": "${ODOO_DB}",
+        "ODOO_USERNAME": "${ODOO_USERNAME}",
+        "ODOO_PASSWORD": "${ODOO_PASSWORD}"
+      }
+    }
+  },
+  "globalShortcut": "Ctrl+Shift+G",
+  "theme": "dark",
+  "settings": {
+    "autoSave": true,
+    "logLevel": "info",
+    "maxConcurrentRequests": 5,
+    "retryAttempts": 3,
+    "retryDelay": 1000
+  }
+}

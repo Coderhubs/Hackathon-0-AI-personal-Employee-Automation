@@ -1,0 +1,35 @@
+{
+  "watchers": [
+    {
+      "name": "Gmail Watcher",
+      "script": "gmail_watcher.py",
+      "enabled": true,
+      "description": "Monitors Gmail and creates task files every 3 minutes",
+      "interval_seconds": 180
+    },
+    {
+      "name": "LinkedIn Watcher",
+      "script": "linkedin_watcher.py",
+      "enabled": true,
+      "description": "Monitors LinkedIn trends and creates task files every 2 minutes",
+      "interval_seconds": 120
+    },
+    {
+      "name": "Filesystem Watcher",
+      "script": "filesystem_watcher.py",
+      "enabled": true,
+      "description": "Monitors Inbox folder for file drops",
+      "interval_seconds": null
+    }
+  ],
+  "plugin_discovery": {
+    "enabled": true,
+    "pattern": "*_watcher.py",
+    "exclude": ["base_watcher.py", "watcher_template.py"]
+  },
+  "settings": {
+    "auto_start_all": true,
+    "restart_on_failure": true,
+    "max_restart_attempts": 3
+  }
+}

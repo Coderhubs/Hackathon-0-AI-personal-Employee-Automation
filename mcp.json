@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/Users/Dell/Desktop/New folder (3)/AI_personal_Employee"
+      ],
+      "description": "File system access for AI Employee vaults"
+    }
+  },
+  "globalShortcut": "Ctrl+Shift+Space",
+  "theme": "dark",
+  "settings": {
+    "autoSave": true,
+    "logLevel": "info",
+    "maxConcurrentRequests": 3
+  }
+}

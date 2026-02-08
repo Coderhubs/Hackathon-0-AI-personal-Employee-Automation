@@ -1,0 +1,27 @@
+# Prometheus Configuration for Platinum Tier AI Employee
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  # Prometheus self-monitoring
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # Main AI Employee application
+  - job_name: 'platinum-ai'
+    static_configs:
+      - targets: ['platinum-ai:8000']
+    metrics_path: '/metrics'
+
+  # Redis metrics (if redis_exporter is added)
+  - job_name: 'redis'
+    static_configs:
+      - targets: ['redis:6379']
+
+  # PostgreSQL metrics (if postgres_exporter is added)
+  - job_name: 'postgres'
+    static_configs:
+      - targets: ['postgres:5432']

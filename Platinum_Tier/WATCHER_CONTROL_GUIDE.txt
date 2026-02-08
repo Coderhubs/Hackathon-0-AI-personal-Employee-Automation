@@ -1,0 +1,145 @@
+"""
+Mock Watchers Control Guide
+============================
+
+Your mock watchers are currently running in the background!
+
+CURRENT STATUS:
+--------------
+- Gmail Watcher: Task ID b2e0e40 (creates email every 3 min)
+- LinkedIn Watcher: Task ID b2a75e8 (creates post every 2 min)
+- Files created so far: 88+ (40 Gmail, 48 LinkedIn)
+- Location: Platinum_Tier/Inbox/
+
+HOW TO STOP THE WATCHERS:
+-------------------------
+
+Method 1: Stop by Task ID
+--------------------------
+# Stop Gmail watcher
+taskkill /F /PID <process_id>
+
+# Stop LinkedIn watcher
+taskkill /F /PID <process_id>
+
+Method 2: Stop all Python processes (nuclear option)
+-----------------------------------------------------
+taskkill /F /IM python.exe
+
+Method 3: Find and kill specific processes
+-------------------------------------------
+# List all Python processes
+tasklist | findstr python
+
+# Kill specific PID
+taskkill /F /PID <pid_number>
+
+HOW TO CHECK IF THEY'RE STILL RUNNING:
+--------------------------------------
+# Check for new files
+ls -lt Platinum_Tier/Inbox | head -5
+
+# If files are still being created, watchers are running
+# If no new files after 3 minutes, they've stopped
+
+WHAT HAPPENS TO THESE FILES:
+----------------------------
+Your AI Employee system should:
+1. Monitor the Inbox/ folder for new files
+2. Read each file when it appears
+3. Process the content (email/post)
+4. Take appropriate action based on content
+5. Move processed files to an archive folder
+
+EXAMPLE WORKFLOW:
+-----------------
+1. Gmail watcher creates: GMAIL_20260208_123456_Invoice.txt
+2. Your AI Employee detects the new file
+3. Reads: "Invoice: Monthly Subscription"
+4. Processes: Extracts invoice details
+5. Actions:
+   - Logs to accounting system
+   - Sends notification
+   - Archives the file
+
+NEXT STEPS:
+-----------
+
+Option A: Let them run and test your AI Employee system
+   - Keep watchers running
+   - Test if your system processes the files
+   - Monitor logs for activity
+
+Option B: Stop them and switch to real watchers
+   - Stop mock watchers
+   - Configure .env with real credentials
+   - Run gmail_watcher_playwright.py
+   - Run linkedin_watcher_playwright.py
+
+Option C: Stop them for now
+   - Stop both watchers
+   - Clean up Inbox folder if needed
+   - Restart when ready to test
+
+USEFUL COMMANDS:
+----------------
+
+# Count files by type
+ls Inbox/GMAIL_* | wc -l
+ls Inbox/LINKEDIN_* | wc -l
+
+# Show latest 10 files
+ls -lt Inbox | head -10
+
+# Watch for new files in real-time (Windows)
+dir /O-D Inbox
+
+# Clean up old test files (careful!)
+rm Inbox/GMAIL_*
+rm Inbox/LINKEDIN_*
+
+LOGS LOCATION:
+--------------
+Gold_Tier/Logs/gmail_watcher.log
+Gold_Tier/Logs/linkedin_watcher.log
+
+Check logs to see watcher activity and any errors.
+
+TROUBLESHOOTING:
+----------------
+
+Watchers stopped unexpectedly:
+- Check logs for errors
+- Verify Inbox folder exists
+- Check disk space
+- Restart watchers
+
+Too many files created:
+- Stop watchers
+- Clean up Inbox folder
+- Adjust timing in watcher code
+
+Files not being processed:
+- Check your AI Employee system is running
+- Verify file monitoring is enabled
+- Check permissions on Inbox folder
+
+PERFORMANCE NOTES:
+------------------
+- Mock watchers use minimal CPU/memory
+- Each file is ~200-300 bytes
+- 88 files = ~20 KB total
+- Can run indefinitely without issues
+- Safe to leave running for testing
+
+READY FOR PRODUCTION?
+---------------------
+When you're ready to use real data:
+1. Stop mock watchers
+2. Edit .env with real credentials
+3. Run: python gmail_watcher_playwright.py
+4. Run: python linkedin_watcher_playwright.py
+5. Monitor for real emails/posts
+
+The real watchers work exactly the same way,
+but fetch actual data from Gmail and LinkedIn!
