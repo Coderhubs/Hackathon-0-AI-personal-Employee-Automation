@@ -1,0 +1,282 @@
+# Platinum Tier - Git Ignore File
+# Prevents sensitive and unnecessary files from being committed
+
+# ============================================
+# SENSITIVE FILES - NEVER COMMIT
+# ============================================
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.encrypted
+*.env
+
+# Credentials and secrets
+credentials/
+secrets/
+*.key
+*.pem
+*.p12
+*.pfx
+
+# API keys
+*api_key*
+*secret_key*
+*private_key*
+
+# ============================================
+# RUNTIME DATA
+# ============================================
+
+# Task directories (contain user data)
+Inbox/*
+!Inbox/.gitkeep
+Needs_Action/*
+!Needs_Action/.gitkeep
+Plans/*
+!Plans/.gitkeep
+Pending_Approval/*
+!Pending_Approval/.gitkeep
+Approved/*
+!Approved/.gitkeep
+Rejected/*
+!Rejected/.gitkeep
+Done/*
+!Done/.gitkeep
+
+# Logs
+Logs/*
+!Logs/.gitkeep
+*.log
+*.log.*
+
+# Briefings
+Briefings/*
+!Briefings/.gitkeep
+
+# Backups
+backups/
+*.backup
+*.bak
+*.tar.gz
+*.zip
+
+# ============================================
+# PYTHON
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# ============================================
+# DOCKER
+# ============================================
+
+# Docker volumes
+docker-compose.override.yml
+.dockerignore
+
+# ============================================
+# NODE.JS / PM2
+# ============================================
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PM2
+.pm2/
+pm2.log
+pm2-*.log
+
+# ============================================
+# DATABASE
+# ============================================
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# PostgreSQL
+*.sql
+*.dump
+
+# Redis
+dump.rdb
+
+# ============================================
+# VECTOR DATABASES
+# ============================================
+
+# ChromaDB
+chroma_data/
+*.chroma
+
+# Pinecone cache
+.pinecone/
+
+# ============================================
+# IDE / EDITOR
+# ============================================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ============================================
+# OPERATING SYSTEM
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# ============================================
+# TEMPORARY FILES
+# ============================================
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Cache
+.cache/
+*.cache
+
+# ============================================
+# MONITORING & METRICS
+# ============================================
+
+# Prometheus data
+prometheus_data/
+
+# Grafana data
+grafana_data/
+
+# ============================================
+# TESTING
+# ============================================
+
+# Test outputs
+test_output/
+test_results/
+.pytest_cache/
+
+# ============================================
+# MISCELLANEOUS
+# ============================================
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# SSL certificates (if stored locally)
+*.crt
+*.cer
+*.der
+
+# Keep example files
+!.env.example
+!*.example
+!*.sample

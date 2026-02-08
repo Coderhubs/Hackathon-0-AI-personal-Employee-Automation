@@ -1,0 +1,39 @@
+# Silver Tier - Git Ignore
+# =========================
+
+# Environment & Credentials
+.env
+.env.local
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Operational Folders (Generated Files)
+Inbox/*
+Done/*
+Needs_Action/*
+Pending_Approval/*
+Approved/*
+
+# Keep folder structure
+!Inbox/.gitkeep
+!Done/.gitkeep
+!Needs_Action/.gitkeep
+!Pending_Approval/.gitkeep
+!Approved/.gitkeep
+
+# Logs
+Logs/*.log
+*.log
+
+# Dashboard (auto-generated)
+Dashboard.md
+
+# Temporary Files
+*.tmp
+*.bak
+nul

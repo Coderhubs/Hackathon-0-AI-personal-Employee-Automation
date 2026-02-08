@@ -1,0 +1,48 @@
+# Gold Tier - Git Ignore
+# =======================
+
+# Environment & Credentials
+.env
+.env.local
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Operational Folders (Generated Files)
+Inbox/*
+Done/*
+Needs_Action/*
+Pending_Approval/*
+Approved/*
+Rejected/*
+Briefings/*
+
+# Keep folder structure
+!Inbox/.gitkeep
+!Done/.gitkeep
+!Needs_Action/.gitkeep
+!Pending_Approval/.gitkeep
+!Approved/.gitkeep
+!Rejected/.gitkeep
+!Briefings/.gitkeep
+
+# Logs
+Logs/*.log
+Logs/*.txt
+*.log
+
+# Dashboard (auto-generated)
+Dashboard.md
+
+# PM2
+*.pid
+pm2-*.log
+
+# Temporary Files
+*.tmp
+*.bak
+nul
