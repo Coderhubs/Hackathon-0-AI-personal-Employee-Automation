@@ -176,7 +176,7 @@ Created - awaiting execution
         dashboard_content = f"""# Gold Tier Dashboard
 
 **Last Update:** {datetime.now().isoformat()}
-**Status:** OPERATIONAL 🟢
+**Status:** OPERATIONAL [ACTIVE]
 
 ## Queue Status
 - Needs_Action: {needs_action_count} files
