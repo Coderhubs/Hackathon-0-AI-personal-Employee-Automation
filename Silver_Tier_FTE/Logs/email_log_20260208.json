@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-02-08T22:12:45.218980",
+    "action": "email_send",
+    "to": null,
+    "subject": null,
+    "draft_file": "DRAFT_Response_Quarterly_Review.md",
+    "status": "simulated_success",
+    "note": "Production would use Gmail API"
+  },
+  {
+    "timestamp": "2026-02-08T22:58:13.090141",
+    "action": "email_send",
+    "to": null,
+    "subject": null,
+    "draft_file": "DRAFT_Response_Urgent_Status_Update.md",
+    "status": "simulated_success",
+    "note": "Production would use Gmail API"
+  }
+]

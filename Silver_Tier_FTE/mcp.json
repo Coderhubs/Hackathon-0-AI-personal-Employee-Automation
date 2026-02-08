@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": [
+        "Silver_Tier_FTE/email_mcp_server.py",
+        "Silver_Tier_FTE"
+      ],
+      "env": {
+        "VAULT_PATH": "Silver_Tier_FTE"
+      },
+      "description": "Email MCP server for sending approved drafts"
+    },
+    "filesystem": {
+      "command": "node",
+      "args": [
+        "@modelcontextprotocol/server-filesystem",
+        "Silver_Tier_FTE"
+      ],
+      "description": "Filesystem access for vault operations"
+    }
+  }
+}
