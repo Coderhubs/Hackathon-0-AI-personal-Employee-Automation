@@ -1,0 +1,54 @@
+{
+  "cloud_zone": {
+    "description": "Cloud agent runs 24/7, handles monitoring and lightweight processing",
+    "tasks": [
+      "gmail_monitoring",
+      "api_polling",
+      "lightweight_processing",
+      "draft_creation"
+    ],
+    "restrictions": [
+      "no_browser_automation",
+      "no_mcp_execution",
+      "no_payment_processing",
+      "no_whatsapp_session"
+    ],
+    "capabilities": [
+      "imap_email_reading",
+      "file_creation",
+      "status_reporting"
+    ]
+  },
+  "local_zone": {
+    "description": "Local agent runs on-demand, handles execution and browser automation",
+    "tasks": [
+      "action_execution",
+      "browser_automation",
+      "mcp_calls",
+      "approval_processing",
+      "payment_execution",
+      "whatsapp_messaging"
+    ],
+    "restrictions": [
+      "requires_local_machine_on",
+      "requires_user_approval"
+    ],
+    "capabilities": [
+      "playwright_automation",
+      "mcp_server_calls",
+      "file_execution",
+      "approval_workflow"
+    ]
+  },
+  "routing_rules": {
+    "email_detection": "cloud",
+    "email_sending": "local",
+    "social_media_monitoring": "cloud",
+    "social_media_posting": "local",
+    "payment_detection": "cloud",
+    "payment_execution": "local",
+    "file_creation": "both",
+    "browser_required": "local",
+    "approval_required": "local"
+  }
+}

@@ -1,0 +1,16 @@
+From: Client John Smith
+Date: 2026-02-08
+Subject: Project Update Request
+
+Hi,
+
+Can you please send me a status update on the Q1 project?
+I need to know:
+1. Current progress percentage
+2. Any blockers or issues
+3. Expected completion date
+
+This is needed for our board meeting next week.
+
+Thanks,
+John

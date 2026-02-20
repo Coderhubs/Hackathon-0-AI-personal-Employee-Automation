@@ -1,0 +1,242 @@
+2026-02-20 01:18:48,203 - INFO - Checking for approved posts...
+2026-02-20 01:18:48,205 - INFO - Found 2 approved post(s)
+2026-02-20 01:18:48,205 - INFO - Processing: LINKEDIN_POST_business_update_20260220_011803.md
+2026-02-20 01:18:48,206 - INFO - Generating image for post...
+2026-02-20 01:18:48,207 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 01:18:48,499 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_011848.png
+2026-02-20 01:18:48,500 - INFO - ================================================================================
+2026-02-20 01:18:48,500 - INFO - LinkedIn Post - Starting
+2026-02-20 01:18:48,500 - INFO - ================================================================================
+2026-02-20 01:18:48,500 - INFO - Content length: 390 characters
+2026-02-20 01:18:48,500 - INFO - Visibility: public
+2026-02-20 01:18:48,501 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_011848.png
+2026-02-20 01:18:50,216 - INFO - Launching browser with saved session...
+2026-02-20 01:18:52,159 - INFO - Navigating to LinkedIn feed...
+2026-02-20 01:19:04,417 - INFO - ✓ Logged in successfully
+2026-02-20 01:19:04,417 - INFO - Opening post composer...
+2026-02-20 01:19:06,977 - INFO - Typing content...
+2026-02-20 01:19:10,460 - INFO - Uploading image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_011848.png
+2026-02-20 01:19:10,479 - WARNING - Could not find image upload button
+2026-02-20 01:19:10,480 - INFO - Publishing post...
+2026-02-20 01:19:10,523 - INFO - Found Post button: button:has-text("Post")
+2026-02-20 01:19:10,538 - INFO - Clicking Post button...
+2026-02-20 01:19:10,781 - INFO - Waiting for post to upload...
+2026-02-20 01:19:13,792 - INFO - Verifying post published...
+2026-02-20 01:19:28,798 - WARNING - Could not verify modal closed, waiting longer...
+2026-02-20 01:19:33,811 - INFO - Ensuring upload completes...
+2026-02-20 01:19:38,816 - INFO - ✓ Returned to feed - post published successfully!
+2026-02-20 01:19:39,081 - INFO - Screenshot saved: linkedin_post_success.png
+2026-02-20 01:19:39,081 - INFO - Closing browser...
+2026-02-20 01:19:41,088 - INFO - ================================================================================
+2026-02-20 01:19:41,088 - INFO - ✓ POST PUBLISHED SUCCESSFULLY
+2026-02-20 01:19:41,089 - INFO - ================================================================================
+2026-02-20 01:19:41,130 - INFO - ✓ Moved to Done: LINKEDIN_POST_business_update_20260220_011803.md
+2026-02-20 01:19:41,130 - INFO - Processing: LINKEDIN_POST_engagement_20260218_192015.md
+2026-02-20 01:19:41,131 - INFO - Generating image for post...
+2026-02-20 01:19:41,132 - INFO - Image prompt: Professional LinkedIn post image about AI, business, modern design, clean, corporate style, high quality
+2026-02-20 01:19:41,161 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_011941.png
+2026-02-20 01:19:41,161 - INFO - ================================================================================
+2026-02-20 01:19:41,161 - INFO - LinkedIn Post - Starting
+2026-02-20 01:19:41,162 - INFO - ================================================================================
+2026-02-20 01:19:41,162 - INFO - Content length: 249 characters
+2026-02-20 01:19:41,162 - INFO - Visibility: public
+2026-02-20 01:19:41,162 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_011941.png
+2026-02-20 01:19:42,865 - INFO - Launching browser with saved session...
+2026-02-20 01:19:44,800 - INFO - Navigating to LinkedIn feed...
+2026-02-20 01:19:56,781 - INFO - ✓ Logged in successfully
+2026-02-20 01:19:56,782 - INFO - Opening post composer...
+2026-02-20 01:19:59,112 - INFO - Typing content...
+2026-02-20 01:20:03,104 - INFO - Uploading image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_011941.png
+2026-02-20 01:20:03,112 - WARNING - Could not find image upload button
+2026-02-20 01:20:03,113 - INFO - Publishing post...
+2026-02-20 01:20:03,126 - INFO - Found Post button: button:has-text("Post")
+2026-02-20 01:20:03,136 - INFO - Clicking Post button...
+2026-02-20 01:20:03,284 - INFO - Waiting for post to upload...
+2026-02-20 01:20:06,293 - INFO - Verifying post published...
+2026-02-20 01:20:12,254 - INFO - ✓ Post modal closed
+2026-02-20 01:20:12,255 - INFO - Ensuring upload completes...
+2026-02-20 01:20:17,262 - INFO - ✓ Returned to feed - post published successfully!
+2026-02-20 01:20:17,434 - INFO - Screenshot saved: linkedin_post_success.png
+2026-02-20 01:20:17,435 - INFO - Closing browser...
+2026-02-20 01:20:19,623 - INFO - ================================================================================
+2026-02-20 01:20:19,623 - INFO - ✓ POST PUBLISHED SUCCESSFULLY
+2026-02-20 01:20:19,623 - INFO - ================================================================================
+2026-02-20 01:20:19,656 - INFO - ✓ Moved to Done: LINKEDIN_POST_engagement_20260218_192015.md
+2026-02-20 05:57:36,529 - INFO - Checking for approved posts...
+2026-02-20 05:57:36,530 - INFO - No approved posts found
+2026-02-20 05:58:19,618 - INFO - Checking for approved posts...
+2026-02-20 05:58:19,619 - INFO - No approved posts found
+2026-02-20 05:59:29,122 - INFO - Checking for approved posts...
+2026-02-20 05:59:29,124 - INFO - Found 1 approved post(s)
+2026-02-20 05:59:29,124 - INFO - Processing: LINKEDIN_POST_business_update_20260220_055614.md
+2026-02-20 05:59:29,125 - INFO - Generating image for post...
+2026-02-20 05:59:29,125 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 05:59:29,389 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_055929.png
+2026-02-20 05:59:29,390 - INFO - ================================================================================
+2026-02-20 05:59:29,391 - INFO - LinkedIn Post - Starting
+2026-02-20 05:59:29,391 - INFO - ================================================================================
+2026-02-20 05:59:29,392 - INFO - Content length: 390 characters
+2026-02-20 05:59:29,392 - INFO - Visibility: public
+2026-02-20 05:59:29,392 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_055929.png
+2026-02-20 05:59:31,628 - INFO - Launching browser with saved session...
+2026-02-20 05:59:34,508 - INFO - Navigating to LinkedIn feed...
+2026-02-20 05:59:48,885 - INFO - ✓ Logged in successfully
+2026-02-20 05:59:48,890 - INFO - Opening post composer...
+2026-02-20 05:59:51,191 - INFO - Typing content...
+2026-02-20 05:59:54,656 - INFO - Uploading image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_055929.png
+2026-02-20 05:59:54,840 - WARNING - Could not find image upload button
+2026-02-20 05:59:54,841 - INFO - Publishing post...
+2026-02-20 05:59:56,220 - INFO - Found Post button: button:has-text("Post")
+2026-02-20 05:59:56,260 - INFO - Clicking Post button...
+2026-02-20 05:59:56,479 - INFO - Waiting for post to upload...
+2026-02-20 05:59:59,491 - INFO - Verifying post published...
+2026-02-20 06:00:05,599 - INFO - ✓ Post modal closed
+2026-02-20 06:00:05,599 - INFO - Ensuring upload completes...
+2026-02-20 06:00:10,617 - INFO - ✓ Returned to feed - post published successfully!
+2026-02-20 06:00:10,971 - INFO - Screenshot saved: linkedin_post_success.png
+2026-02-20 06:00:10,972 - INFO - Closing browser...
+2026-02-20 06:00:14,086 - INFO - ================================================================================
+2026-02-20 06:00:14,087 - INFO - ✓ POST PUBLISHED SUCCESSFULLY
+2026-02-20 06:00:14,087 - INFO - ================================================================================
+2026-02-20 06:00:14,140 - INFO - ✓ Moved to Done: LINKEDIN_POST_business_update_20260220_055614.md
+2026-02-20 06:05:17,793 - INFO - Checking for approved posts...
+2026-02-20 06:05:17,795 - INFO - Found 1 approved post(s)
+2026-02-20 06:05:17,795 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:05:17,796 - INFO - Generating image for post...
+2026-02-20 06:05:17,796 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:05:17,993 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_060517.png
+2026-02-20 06:05:17,994 - INFO - ================================================================================
+2026-02-20 06:05:17,994 - INFO - LinkedIn Post - Starting
+2026-02-20 06:05:17,995 - INFO - ================================================================================
+2026-02-20 06:05:17,995 - INFO - Content length: 414 characters
+2026-02-20 06:05:17,995 - INFO - Visibility: public
+2026-02-20 06:05:17,995 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_060517.png
+2026-02-20 06:05:20,342 - INFO - Launching browser with saved session...
+2026-02-20 06:05:21,652 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:05:36,346 - ERROR - Failed to post: Page.query_selector: Execution context was destroyed, most likely because of a navigation
+2026-02-20 06:05:36,351 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:08:47,356 - INFO - Checking for approved posts...
+2026-02-20 06:08:47,356 - INFO - Found 1 approved post(s)
+2026-02-20 06:08:47,357 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:08:47,357 - INFO - Generating image for post...
+2026-02-20 06:08:47,357 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:08:47,480 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_060847.png
+2026-02-20 06:08:47,481 - INFO - ================================================================================
+2026-02-20 06:08:47,481 - INFO - LinkedIn Post - Starting
+2026-02-20 06:08:47,481 - INFO - ================================================================================
+2026-02-20 06:08:47,481 - INFO - Content length: 414 characters
+2026-02-20 06:08:47,481 - INFO - Visibility: public
+2026-02-20 06:08:47,482 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_060847.png
+2026-02-20 06:08:49,303 - INFO - Launching browser with saved session...
+2026-02-20 06:08:50,564 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:08:55,591 - ERROR - Not logged in. Run setup_linkedin_login.py first
+2026-02-20 06:09:00,564 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:11:03,358 - INFO - Checking for approved posts...
+2026-02-20 06:11:03,359 - INFO - Found 1 approved post(s)
+2026-02-20 06:11:03,359 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:11:03,360 - INFO - Generating image for post...
+2026-02-20 06:11:03,360 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:11:03,453 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_061103.png
+2026-02-20 06:11:03,454 - INFO - ================================================================================
+2026-02-20 06:11:03,455 - INFO - LinkedIn Post - Starting
+2026-02-20 06:11:03,455 - INFO - ================================================================================
+2026-02-20 06:11:03,455 - INFO - Content length: 414 characters
+2026-02-20 06:11:03,455 - INFO - Visibility: public
+2026-02-20 06:11:03,455 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_061103.png
+2026-02-20 06:11:05,471 - INFO - Launching browser with saved session...
+2026-02-20 06:11:07,015 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:11:16,715 - ERROR - Failed to post: Page.query_selector: Execution context was destroyed, most likely because of a navigation
+2026-02-20 06:11:16,719 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:12:11,150 - INFO - Checking for approved posts...
+2026-02-20 06:12:11,151 - INFO - Found 1 approved post(s)
+2026-02-20 06:12:11,151 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:12:11,152 - INFO - Generating image for post...
+2026-02-20 06:12:11,152 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:12:11,250 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_061211.png
+2026-02-20 06:12:11,251 - INFO - ================================================================================
+2026-02-20 06:12:11,251 - INFO - LinkedIn Post - Starting
+2026-02-20 06:12:11,251 - INFO - ================================================================================
+2026-02-20 06:12:11,252 - INFO - Content length: 414 characters
+2026-02-20 06:12:11,252 - INFO - Visibility: public
+2026-02-20 06:12:11,252 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_061211.png
+2026-02-20 06:12:13,550 - INFO - Launching browser with saved session...
+2026-02-20 06:12:15,127 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:12:22,530 - INFO - Current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+2026-02-20 06:12:22,530 - ERROR - Failed to verify login: Page.query_selector() got an unexpected keyword argument 'timeout'
+2026-02-20 06:12:26,654 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:18:37,198 - INFO - Checking for approved posts...
+2026-02-20 06:18:37,199 - INFO - Found 1 approved post(s)
+2026-02-20 06:18:37,200 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:18:37,201 - INFO - Generating image for post...
+2026-02-20 06:18:37,201 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:18:37,333 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_061837.png
+2026-02-20 06:18:37,334 - INFO - ================================================================================
+2026-02-20 06:18:37,334 - INFO - LinkedIn Post - Starting
+2026-02-20 06:18:37,334 - INFO - ================================================================================
+2026-02-20 06:18:37,334 - INFO - Content length: 414 characters
+2026-02-20 06:18:37,334 - INFO - Visibility: public
+2026-02-20 06:18:37,334 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_061837.png
+2026-02-20 06:18:39,698 - INFO - Launching browser with saved session...
+2026-02-20 06:18:41,308 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:18:49,775 - INFO - Current URL: https://www.linkedin.com/checkpoint/rm/sign-in-another-account?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+2026-02-20 06:18:49,775 - ERROR - LinkedIn session expired or verification required!
+2026-02-20 06:18:49,775 - ERROR - Please run: python setup_linkedin_login.py
+2026-02-20 06:18:49,776 - ERROR - Complete the login/verification in the browser, then try again.
+2026-02-20 06:18:57,205 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:23:34,872 - INFO - Checking for approved posts...
+2026-02-20 06:23:34,873 - INFO - Found 1 approved post(s)
+2026-02-20 06:23:34,874 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:23:34,876 - INFO - Generating image for post...
+2026-02-20 06:23:34,876 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:23:35,104 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_062334.png
+2026-02-20 06:23:35,105 - INFO - ================================================================================
+2026-02-20 06:23:35,106 - INFO - LinkedIn Post - Starting
+2026-02-20 06:23:35,106 - INFO - ================================================================================
+2026-02-20 06:23:35,106 - INFO - Content length: 414 characters
+2026-02-20 06:23:35,107 - INFO - Visibility: public
+2026-02-20 06:23:35,107 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_062334.png
+2026-02-20 06:23:37,806 - INFO - Launching browser with saved session...
+2026-02-20 06:23:39,574 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:23:47,170 - INFO - Current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+2026-02-20 06:23:47,170 - ERROR - LinkedIn session expired or verification required!
+2026-02-20 06:23:47,170 - ERROR - Please run: python setup_linkedin_login.py
+2026-02-20 06:23:47,170 - ERROR - Complete the login/verification in the browser, then try again.
+2026-02-20 06:23:53,116 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:41:56,847 - INFO - Checking for approved posts...
+2026-02-20 06:41:56,848 - INFO - Found 1 approved post(s)
+2026-02-20 06:41:56,848 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:41:56,849 - INFO - Generating image for post...
+2026-02-20 06:41:56,849 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:41:56,960 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_064156.png
+2026-02-20 06:41:56,961 - INFO - ================================================================================
+2026-02-20 06:41:56,961 - INFO - LinkedIn Post - Starting
+2026-02-20 06:41:56,961 - INFO - ================================================================================
+2026-02-20 06:41:56,962 - INFO - Content length: 414 characters
+2026-02-20 06:41:56,962 - INFO - Visibility: public
+2026-02-20 06:41:56,962 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_064156.png
+2026-02-20 06:41:58,994 - INFO - Launching browser with saved session...
+2026-02-20 06:42:00,391 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:42:08,003 - INFO - Current URL: https://www.linkedin.com/checkpoint/challenge/AgFpJ7l1OhQD8wAAAZx4thiRl_ffs69XNgWAoG7MWJsUXMBsPchwu5fPMubFuoMppFKlMkNG0q5R83XTjTM5EQhkixbchg?ut=3s2K0WQUZCxY81
+2026-02-20 06:42:08,003 - ERROR - LinkedIn session expired or verification required!
+2026-02-20 06:42:08,003 - ERROR - Please run: python setup_linkedin_login.py
+2026-02-20 06:42:08,004 - ERROR - Complete the login/verification in the browser, then try again.
+2026-02-20 06:42:11,437 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:46:11,806 - INFO - Checking for approved posts...
+2026-02-20 06:46:11,807 - INFO - Found 1 approved post(s)
+2026-02-20 06:46:11,809 - INFO - Processing: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 06:46:11,810 - INFO - Generating image for post...
+2026-02-20 06:46:11,810 - INFO - Image prompt: Professional LinkedIn post image about automation, AI, business, productivity, modern design, clean, corporate style, high quality
+2026-02-20 06:46:11,911 - INFO - Image generated: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_064611.png
+2026-02-20 06:46:11,912 - INFO - ================================================================================
+2026-02-20 06:46:11,912 - INFO - LinkedIn Post - Starting
+2026-02-20 06:46:11,912 - INFO - ================================================================================
+2026-02-20 06:46:11,912 - INFO - Content length: 414 characters
+2026-02-20 06:46:11,913 - INFO - Visibility: public
+2026-02-20 06:46:11,913 - INFO - Image: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Generated_Images\linkedin_post_20260220_064611.png
+2026-02-20 06:46:14,234 - INFO - Launching browser with saved session...
+2026-02-20 06:46:18,151 - INFO - Navigating to LinkedIn feed...
+2026-02-20 06:46:25,460 - INFO - Current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+2026-02-20 06:46:25,460 - ERROR - LinkedIn session expired or verification required!
+2026-02-20 06:46:25,460 - ERROR - Please run: python setup_linkedin_login.py
+2026-02-20 06:46:25,460 - ERROR - Complete the login/verification in the browser, then try again.
+2026-02-20 06:46:28,059 - ERROR - ✗ Failed to post: LINKEDIN_POST_industry_insight_20260220_055616.md

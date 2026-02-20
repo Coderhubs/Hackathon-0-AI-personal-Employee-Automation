@@ -1,0 +1,78 @@
+# Vault Ignore File
+# Files and patterns to exclude from vault syncing
+
+# Environment and credentials
+.env
+.env.*
+credentials.json
+*.key
+*.pem
+*.p12
+
+# Browser session data
+browser_data/
+*.session
+session_*
+
+# Tokens and secrets
+*.token
+*_token.txt
+*_secret.txt
+api_keys.txt
+
+# Temporary files
+*.tmp
+*.temp
+~*
+.DS_Store
+Thumbs.db
+
+# Logs (sync only recent logs)
+*.log
+Logs/*.log
+
+# Large files
+*.zip
+*.tar.gz
+*.mp4
+*.avi
+*.mov
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Node modules
+node_modules/
+package-lock.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker volumes
+docker-compose.override.yml
+.dockerignore
+
+# Personal notes (if any)
+PERSONAL_NOTES.md
+TODO_PRIVATE.md

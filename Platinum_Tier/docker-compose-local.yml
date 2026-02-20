@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  local_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile.local
+    container_name: ai_employee_local
+    environment:
+      - VAULT_PATH=/vault
+      - AGENT_TYPE=local
+      - DISPLAY=${DISPLAY:-:0}
+    volumes:
+      - ./vault_sync:/vault
+      - ./Logs:/app/Logs
+      - ./browser_data:/app/browser_data
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    networks:
+      - ai_network
+    depends_on:
+      - cloud_agent
+
+networks:
+  ai_network:
+    external: true
+    name: platinum_tier_ai_network

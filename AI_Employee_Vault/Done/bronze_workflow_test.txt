@@ -1,0 +1,12 @@
+From: Test Client
+Date: 2026-02-08
+Subject: Bronze Tier Workflow Test
+
+This is a test file to demonstrate the Bronze Tier workflow:
+1. File created in Inbox
+2. Watcher detects and copies to Needs_Action
+3. Claude Code processes the file
+4. Creates metadata and plan
+5. Moves to Done folder
+
+This demonstrates the complete Perception → Reasoning → Action cycle.

@@ -1,0 +1,77 @@
+version: '3.8'
+
+services:
+  cloud_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile.cloud
+    container_name: ai_employee_cloud
+    restart: always
+    environment:
+      - GMAIL_EMAIL=${GMAIL_EMAIL}
+      - GMAIL_PASSWORD=${GMAIL_PASSWORD}
+      - VAULT_PATH=/vault
+      - AGENT_TYPE=cloud
+    volumes:
+      - ./vault_sync:/vault
+      - ./Logs:/app/Logs
+    networks:
+      - ai_network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import os; exit(0 if os.path.exists('/vault/Needs_Action') else 1)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  redis:
+    image: redis:7-alpine
+    container_name: ai_employee_redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - ai_network
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: ai_employee_postgres
+    restart: always
+    environment:
+      - POSTGRES_DB=ai_employee
+      - POSTGRES_USER=ai_user
+      - POSTGRES_PASSWORD=ai_password
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - ai_network
+
+  odoo:
+    image: odoo:17.0
+    container_name: ai_employee_odoo_cloud
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      - HOST=postgres
+      - USER=ai_user
+      - PASSWORD=ai_password
+      - POSTGRES_DB=ai_employee
+    ports:
+      - "8069:8069"
+    volumes:
+      - odoo-data:/var/lib/odoo
+    networks:
+      - ai_network
+
+volumes:
+  redis-data:
+  postgres-data:
+  odoo-data:
+
+networks:
+  ai_network:
+    driver: bridge

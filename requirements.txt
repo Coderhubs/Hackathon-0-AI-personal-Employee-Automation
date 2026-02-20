@@ -1,0 +1,26 @@
+# Core Dependencies
+playwright>=1.40.0
+schedule>=1.2.0
+watchdog>=3.0.0
+python-dotenv>=1.0.0
+
+# Email & Communication
+twilio>=8.0.0
+
+# Testing
+pytest>=7.4.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Web Framework (Optional - for Platinum Tier)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Database (Optional - for Platinum Tier)
+chromadb>=0.4.0
+
+# Additional Utilities
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0

@@ -1,0 +1,11 @@
+BRONZE TIER DEMO - Sun, Feb  8, 2026  8:33:30 PM
+
+This is a demonstration of the Bronze Tier AI Employee system.
+
+Features:
+- Basic file monitoring
+- Automatic metadata generation
+- Dashboard logging
+- Simple Inbox → Needs_Action → Done workflow
+
+Test timestamp: 1770564810

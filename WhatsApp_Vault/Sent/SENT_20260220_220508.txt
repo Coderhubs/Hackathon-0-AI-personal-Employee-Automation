@@ -1,0 +1,10 @@
+=== WhatsApp Message Sent ===
+Timestamp: 2026-02-20T22:05:08.330763
+To: whatsapp:+923173851441
+Message SID: SMb7d2734dfe2c52abeeacfc8db11cf8c4
+Status: Sent
+
+--- Message ---
+🧪 AUTO-REPLY TEST: Please reply with 'hello' to test the auto-reply feature. The system will automatically respond to you\!
+
+--- End ---

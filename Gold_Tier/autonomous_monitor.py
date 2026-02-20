@@ -11,7 +11,15 @@ from datetime import datetime
 from pathlib import Path
 
 class AutonomousMonitor:
-    def __init__(self, base_dir="Gold_Tier"):
+    def __init__(self, base_dir="AI_Employee_Vault"):
+        """
+        Initialize Autonomous Monitor (Ralph Wiggum Loop)
+
+        This monitor integrates with Silver Tier foundation:
+        - Uses AI_Employee_Vault instead of Gold_Tier folders
+        - Works with existing HITL workflow
+        - Never stops until all tasks complete
+        """
         self.base_dir = Path(base_dir)
         self.needs_action = self.base_dir / "Needs_Action"
         self.plans = self.base_dir / "Plans"
@@ -20,8 +28,14 @@ class AutonomousMonitor:
         self.done = self.base_dir / "Done"
         self.logs = self.base_dir / "Logs"
 
-        self.state_file = self.base_dir / "Config" / "monitor_state.json"
+        # Gold Tier specific folders
+        self.gold_logs = Path("Gold_Tier") / "Logs"
+        self.gold_logs.mkdir(parents=True, exist_ok=True)
+
+        self.state_file = Path("Gold_Tier") / "Config" / "monitor_state.json"
         self.running = True
+        self.iteration_count = 0
+        self.max_iterations = 1000  # Safety limit
 
     def load_state(self):
         """Load previous state if interrupted"""

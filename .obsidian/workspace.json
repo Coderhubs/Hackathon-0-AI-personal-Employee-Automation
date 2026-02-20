@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "1d5946b882337527",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fe453a77073e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c271a39d8811d15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI_Employee_Vault/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d71b0b7990d7e296",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dbddc1f2182dc83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bd28af539f4139",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2e8a8e40f82a082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b25193234db95e70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8c47e762571c3d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b0cadbe0137a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fcf79219319e251",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Need_Actions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Need_Actions"
+            }
+          },
+          {
+            "id": "57301438bf8b211f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Need_Actions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Need_Actions"
+            }
+          },
+          {
+            "id": "e3497d87e4ccb1a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3770f43de24b6738",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a150291bb5c9b85c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Need_Actions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Need_Actions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c271a39d8811d15c",
+  "lastOpenFiles": [
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_012053_metadata.md",
+    "Platinum_Tier/Needs_Action/LINKEDIN_trend_20260209_012053.txt",
+    "Platinum_Tier/Inbox/LINKEDIN_trend_20260209_012053.txt",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011951_metadata.md",
+    "Platinum_Tier/Needs_Action/LINKEDIN_trend_20260209_011951.txt",
+    "Platinum_Tier/Inbox/LINKEDIN_trend_20260209_011951.txt",
+    "Platinum_Tier/Done/GMAIL_20260209_011949_Tech_Conference_Invitation_metadata.md",
+    "Platinum_Tier/Needs_Action/GMAIL_20260209_011949_Tech_Conference_Invitation.txt",
+    "Platinum_Tier/Inbox/GMAIL_20260209_011949_Tech_Conference_Invitation.txt",
+    "Platinum_Tier/Done/GMAIL_20260209_011931_Tech_Conference_Invitation_metadata.md",
+    "Platinum_Tier/Needs_Action/GMAIL_20260209_011931_Tech_Conference_Invitation.txt",
+    "Platinum_Tier/Inbox/GMAIL_20260209_011931_Tech_Conference_Invitation.txt",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011853_metadata.md",
+    "Platinum_Tier/Needs_Action/LINKEDIN_trend_20260209_011853.txt",
+    "Platinum_Tier/Inbox/LINKEDIN_trend_20260209_011853.txt",
+    "Gold_Tier/Done/LINKEDIN_trend_20260209_011842_metadata.md",
+    "Gold_Tier/Done/GMAIL_20260209_011823_Vendor_Communication_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011751_metadata.md",
+    "Gold_Tier/Done/GMAIL_20260209_011703_Partnership_Proposal_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011653_metadata.md",
+    "Platinum_Tier/Done/GMAIL_20260209_011649_Newsletter_Industry_Insights_metadata.md",
+    "Gold_Tier/Done/LINKEDIN_trend_20260209_011642_metadata.md",
+    "Platinum_Tier/Done/GMAIL_20260209_011631_Budget_Approval_Request_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011551_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011453_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011351_metadata.md",
+    "Platinum_Tier/Done/GMAIL_20260209_011349_Invoice_Monthly_Subscription_metadata.md",
+    "Platinum_Tier/Done/GMAIL_20260209_011331_Partnership_Proposal_metadata.md",
+    "Gold_Tier/Gold_Tier/Dashboard.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011253_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011151_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_011053_metadata.md",
+    "Platinum_Tier/Done/GMAIL_20260209_011049_Vendor_Communication_metadata.md",
+    "Platinum_Tier/Done/GMAIL_20260209_011031_Bug_Report_Critical_Issue_metadata.md",
+    "Platinum_Tier/Done/LINKEDIN_trend_20260209_010951_metadata.md",
+    "Silver_Tier_FTE/Done/LINKEDIN_trend_20260209_010943_metadata.md"
+  ]
+}

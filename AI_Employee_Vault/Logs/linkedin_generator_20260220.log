@@ -1,0 +1,30 @@
+2026-02-20 01:18:02,961 - INFO - Generating business_update post...
+2026-02-20 01:18:03,039 - INFO - Created approval request: LINKEDIN_POST_business_update_20260220_011803.md
+2026-02-20 05:56:14,813 - INFO - ================================================================================
+2026-02-20 05:56:14,814 - INFO - LinkedIn 24/7 Automation - Starting
+2026-02-20 05:56:14,815 - INFO - ================================================================================
+2026-02-20 05:56:14,815 - INFO - Auto-approve: False
+2026-02-20 05:56:14,815 - INFO - Vault path: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault
+2026-02-20 05:56:14,815 - INFO - Setting up posting schedule...
+2026-02-20 05:56:14,816 - INFO - [OK] Scheduled Monday post at 09:00
+2026-02-20 05:56:14,817 - INFO - [OK] Scheduled Wednesday post at 12:00
+2026-02-20 05:56:14,818 - INFO - [OK] Scheduled Friday post at 17:00
+2026-02-20 05:56:14,819 - INFO - [OK] Scheduled weekly content generation (Sunday 8 PM)
+2026-02-20 05:56:14,820 - INFO - [OK] Scheduled weekly counter reset (Sunday 11:59 PM)
+2026-02-20 05:56:14,820 - INFO - Generating initial weekly content...
+2026-02-20 05:56:14,820 - INFO - ================================================================================
+2026-02-20 05:56:14,821 - INFO - Generating Weekly LinkedIn Content
+2026-02-20 05:56:14,821 - INFO - ================================================================================
+2026-02-20 05:56:14,821 - INFO - Generating Monday post (business_update)...
+2026-02-20 05:56:14,821 - INFO - Generating business_update post...
+2026-02-20 05:56:14,832 - INFO - Created approval request: LINKEDIN_POST_business_update_20260220_055614.md
+2026-02-20 05:56:16,832 - INFO - Generating Wednesday post (industry_insight)...
+2026-02-20 05:56:16,833 - INFO - Generating industry_insight post...
+2026-02-20 05:56:16,838 - INFO - Created approval request: LINKEDIN_POST_industry_insight_20260220_055616.md
+2026-02-20 05:56:18,840 - INFO - Generating Friday post (engagement)...
+2026-02-20 05:56:18,840 - INFO - Generating engagement post...
+2026-02-20 05:56:18,851 - INFO - Created approval request: LINKEDIN_POST_engagement_20260220_055618.md
+2026-02-20 05:56:20,852 - INFO - [OK] Weekly content generation complete
+2026-02-20 05:56:20,852 - INFO - ================================================================================
+2026-02-20 05:56:20,852 - INFO - Automation running. Press Ctrl+C to stop.
+2026-02-20 05:56:20,852 - INFO - ================================================================================

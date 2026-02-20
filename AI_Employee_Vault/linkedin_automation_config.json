@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "auto_approve": false,
+  "weekly_schedule": {
+    "Monday": {
+      "time": "09:00",
+      "type": "business_update"
+    },
+    "Wednesday": {
+      "time": "12:00",
+      "type": "industry_insight"
+    },
+    "Friday": {
+      "time": "17:00",
+      "type": "engagement"
+    }
+  },
+  "visibility": "public",
+  "generate_images": true,
+  "max_posts_per_week": 3,
+  "notes": {
+    "post_types": [
+      "business_update - Weekly achievements and metrics",
+      "industry_insight - Thought leadership content",
+      "engagement - Questions and polls",
+      "automation_showcase - Behind-the-scenes automation"
+    ],
+    "best_times": [
+      "Monday-Friday: 9:00 AM, 12:00 PM, 5:00 PM",
+      "Avoid: Weekends, late nights"
+    ],
+    "visibility_options": [
+      "public - Anyone on LinkedIn",
+      "private - Connections only"
+    ]
+  }
+}

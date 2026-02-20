@@ -1,0 +1,92 @@
+2026-02-19 23:35:21,208 - INFO - 
+================================================================================
+2026-02-19 23:35:21,209 - INFO - LINKEDIN AUTOMATION - FULLY AUTOMATED
+2026-02-19 23:35:21,210 - INFO - ================================================================================
+2026-02-19 23:35:21,210 - INFO - Email: simramumbai@gmail.com
+2026-02-19 23:35:21,210 - INFO - Queue directory: Platinum_Tier\linkedin_queue
+2026-02-19 23:35:21,210 - INFO - Check interval: 30 seconds
+2026-02-19 23:35:21,211 - INFO - ================================================================================
+2026-02-19 23:35:21,211 - INFO - 
+2026-02-19 23:36:16,315 - INFO - [INIT] Launching browser with persistent session...
+2026-02-19 23:36:22,023 - INFO - Navigating to LinkedIn...
+2026-02-19 23:36:31,684 - INFO - No active session found. Logging in...
+2026-02-19 23:36:31,685 - INFO - This is a ONE-TIME setup. Session will persist forever.
+2026-02-19 23:36:36,622 - INFO - Entering email...
+2026-02-19 23:36:38,137 - INFO - Entering password...
+2026-02-19 23:36:48,461 - INFO - Waiting for feed to load...
+2026-02-19 23:36:58,513 - INFO - [OK] Successfully logged into LinkedIn!
+2026-02-19 23:36:58,513 - INFO - [OK] Session saved - you will NEVER need to login again!
+2026-02-19 23:36:58,513 - INFO - 
+[OK] LinkedIn automation ready!
+2026-02-19 23:36:58,514 - INFO - [OK] Monitoring queue for posts to publish...
+2026-02-19 23:36:58,514 - INFO - 
+2026-02-20 00:14:20,863 - INFO - 
+================================================================================
+2026-02-20 00:14:20,864 - INFO - LINKEDIN AUTOMATION - FULLY AUTOMATED
+2026-02-20 00:14:20,864 - INFO - ================================================================================
+2026-02-20 00:14:20,864 - INFO - Email: simramumbai@gmail.com
+2026-02-20 00:14:20,864 - INFO - Queue directory: Platinum_Tier\linkedin_queue
+2026-02-20 00:14:20,864 - INFO - Check interval: 30 seconds
+2026-02-20 00:14:20,864 - INFO - ================================================================================
+2026-02-20 00:14:20,865 - INFO - 
+2026-02-20 00:14:22,416 - INFO - [INIT] Launching browser with persistent session...
+2026-02-20 00:14:24,563 - INFO - Navigating to LinkedIn...
+2026-02-20 00:14:35,313 - INFO - [OK] Already logged in via persistent session!
+2026-02-20 00:14:35,313 - INFO - 
+[OK] LinkedIn automation ready!
+2026-02-20 00:14:35,313 - INFO - [OK] Monitoring queue for posts to publish...
+2026-02-20 00:14:35,314 - INFO - 
+2026-02-20 00:22:59,800 - INFO - 
+================================================================================
+2026-02-20 00:22:59,801 - INFO - LINKEDIN AUTOMATION - FULLY AUTOMATED
+2026-02-20 00:22:59,801 - INFO - ================================================================================
+2026-02-20 00:22:59,801 - INFO - Email: simramumbai@gmail.com
+2026-02-20 00:22:59,801 - INFO - Queue directory: Platinum_Tier\linkedin_queue
+2026-02-20 00:22:59,801 - INFO - Check interval: 30 seconds
+2026-02-20 00:22:59,801 - INFO - ================================================================================
+2026-02-20 00:22:59,801 - INFO - 
+2026-02-20 00:23:01,383 - INFO - [INIT] Launching browser with persistent session...
+2026-02-20 00:23:02,954 - INFO - Navigating to LinkedIn...
+2026-02-20 00:23:17,320 - INFO - [OK] Already logged in via persistent session!
+2026-02-20 00:23:17,320 - INFO - 
+[OK] LinkedIn automation ready!
+2026-02-20 00:23:17,320 - INFO - [OK] Monitoring queue for posts to publish...
+2026-02-20 00:23:17,320 - INFO - 
+2026-02-20 00:37:08,240 - INFO - ================================================================================
+2026-02-20 00:37:08,241 - INFO - LinkedIn Automation - Post from File
+2026-02-20 00:37:08,241 - INFO - ================================================================================
+2026-02-20 00:37:08,241 - INFO - File: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Approved\LINKEDIN_POST_engagement_20260218_192015.md
+2026-02-20 00:37:08,241 - INFO - Email: simramumbai@gmail.com
+2026-02-20 00:37:08,241 - INFO - ================================================================================
+2026-02-20 00:37:08,242 - INFO - Extracted post content (249 chars)
+2026-02-20 00:37:10,175 - INFO - [INIT] Launching browser with saved session...
+2026-02-20 00:37:11,630 - INFO - Checking login status...
+2026-02-20 00:37:23,824 - INFO - [SUCCESS] Already logged in via saved session
+2026-02-20 00:37:23,825 - INFO - [POST] Creating LinkedIn post...
+2026-02-20 00:37:29,489 - INFO - [POST] Looking for 'Start a post' button...
+2026-02-20 00:37:30,919 - INFO - [POST] Found button with selector: button:has-text("Start a post")
+2026-02-20 00:37:33,387 - INFO - [POST] Waiting for editor...
+2026-02-20 00:37:35,720 - INFO - [POST] Found editor with selector: [role="textbox"]
+2026-02-20 00:37:36,732 - INFO - [POST] Typing content...
+2026-02-20 00:37:38,901 - INFO - [POST] Looking for 'Post' button...
+2026-02-20 00:37:38,922 - INFO - [POST] Found button with selector: button:has-text("Post")
+2026-02-20 00:37:42,190 - INFO - [SUCCESS] LinkedIn post published successfully!
+2026-02-20 00:41:33,346 - INFO - ================================================================================
+2026-02-20 00:41:33,346 - INFO - LinkedIn Automation - Post from File
+2026-02-20 00:41:33,346 - INFO - ================================================================================
+2026-02-20 00:41:33,346 - INFO - File: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault\Approved\LINKEDIN_POST_engagement_20260218_192015.md
+2026-02-20 00:41:33,346 - INFO - Email: simramumbai@gmail.com
+2026-02-20 00:41:33,346 - INFO - ================================================================================
+2026-02-20 00:41:33,347 - INFO - Extracted post content (249 chars)
+2026-02-20 00:41:34,735 - INFO - [INIT] Launching browser with saved session...
+2026-02-20 00:41:35,670 - INFO - Checking login status...
+2026-02-20 00:41:45,301 - INFO - [SUCCESS] Already logged in via saved session
+2026-02-20 00:41:45,301 - INFO - [POST] Creating LinkedIn post...
+2026-02-20 00:41:51,799 - INFO - [POST] Looking for 'Start a post' button...
+2026-02-20 00:41:52,670 - INFO - [POST] Found button with selector: button:has-text("Start a post")
+2026-02-20 00:41:55,807 - INFO - [POST] Waiting for editor...
+2026-02-20 00:41:55,823 - INFO - [POST] Found editor with selector: [role="textbox"]
+2026-02-20 00:41:56,829 - INFO - [POST] Typing content...
+2026-02-20 00:41:58,876 - INFO - [POST] Looking for 'Post' button...
+2026-02-20 00:41:58,889 - INFO - [POST] Found button with selector: button:has-text("Post")
+2026-02-20 00:42:02,017 - INFO - [SUCCESS] LinkedIn post published successfully!

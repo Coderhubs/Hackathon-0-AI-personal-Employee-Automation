@@ -1,0 +1,10 @@
+Slack Message
+========================================
+Channel: general
+User: demo_user
+Timestamp: 1234567890.123456
+
+Message:
+This is a demo Slack message
+
+========================================

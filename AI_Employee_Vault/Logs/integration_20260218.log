@@ -1,0 +1,1166 @@
+2026-02-18 18:29:51,888 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:29:51,888 - IntegrationCoordinator - INFO - Integration Coordinator - Continuous Mode
+2026-02-18 18:29:51,889 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:29:51,889 - IntegrationCoordinator - INFO - Vault: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault
+2026-02-18 18:29:51,889 - IntegrationCoordinator - INFO - Check interval: 60 seconds
+2026-02-18 18:29:51,889 - IntegrationCoordinator - INFO - Press Ctrl+C to stop
+2026-02-18 18:29:51,889 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:29:51,889 - IntegrationCoordinator - INFO - 
+2026-02-18 18:29:51,890 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:29:51,890 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:29:51,890 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:29:51,891 - IntegrationCoordinator - INFO - Processing 2 files in Needs_Action
+2026-02-18 18:29:51,891 - IntegrationCoordinator - INFO - Processing: email_20260218_002151.md
+2026-02-18 18:29:51,906 - IntegrationCoordinator - INFO - Processing generic action: email_20260218_002151.md
+2026-02-18 18:29:51,907 - IntegrationCoordinator - INFO - Moved to Done: email_20260218_002151.md
+2026-02-18 18:29:51,907 - IntegrationCoordinator - INFO - Processing: TEST_integration.md
+2026-02-18 18:29:51,919 - IntegrationCoordinator - INFO - Processing generic action: TEST_integration.md
+2026-02-18 18:29:51,921 - IntegrationCoordinator - INFO - Moved to Done: TEST_integration.md
+2026-02-18 18:29:51,921 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:29:51,921 - IntegrationCoordinator - INFO - 
+2026-02-18 18:30:51,922 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:30:51,922 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:30:51,922 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:30:51,922 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:30:51,923 - IntegrationCoordinator - INFO - 
+2026-02-18 18:31:51,923 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:31:51,923 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:31:51,923 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:31:51,924 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:31:51,924 - IntegrationCoordinator - INFO - 
+2026-02-18 18:32:51,924 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:32:51,925 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:32:51,925 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:32:51,925 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:32:51,925 - IntegrationCoordinator - INFO - 
+2026-02-18 18:33:51,927 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:33:51,927 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:33:51,927 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:33:51,928 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:33:51,928 - IntegrationCoordinator - INFO - 
+2026-02-18 18:34:51,931 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:34:51,932 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:34:51,932 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:34:51,933 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:34:51,933 - IntegrationCoordinator - INFO - 
+2026-02-18 18:35:51,934 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:35:51,934 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:35:51,934 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:35:51,935 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:35:51,935 - IntegrationCoordinator - INFO - 
+2026-02-18 18:36:51,935 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:36:51,936 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:36:51,936 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:36:51,937 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:36:51,937 - IntegrationCoordinator - INFO - 
+2026-02-18 18:37:51,938 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:37:51,938 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:37:51,938 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:37:51,938 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:37:51,939 - IntegrationCoordinator - INFO - 
+2026-02-18 18:38:51,940 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:38:51,940 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:38:51,940 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:38:51,941 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:38:51,942 - IntegrationCoordinator - INFO - 
+2026-02-18 18:39:51,942 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:39:51,942 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:39:51,943 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:39:51,943 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:39:51,943 - IntegrationCoordinator - INFO - 
+2026-02-18 18:40:51,944 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:40:51,944 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:40:51,944 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:40:51,945 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:40:51,945 - IntegrationCoordinator - INFO - 
+2026-02-18 18:41:51,946 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:41:51,946 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:41:51,946 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:41:51,946 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:41:51,946 - IntegrationCoordinator - INFO - 
+2026-02-18 18:42:51,947 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:42:51,947 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:42:51,947 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:42:51,947 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:42:51,948 - IntegrationCoordinator - INFO - 
+2026-02-18 18:43:51,948 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:43:51,948 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:43:51,948 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:43:51,949 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:43:51,949 - IntegrationCoordinator - INFO - 
+2026-02-18 18:44:51,950 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:44:51,950 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:44:51,950 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:44:51,950 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:44:51,951 - IntegrationCoordinator - INFO - 
+2026-02-18 18:45:51,951 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:45:51,951 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:45:51,951 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:45:51,952 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:45:51,952 - IntegrationCoordinator - INFO - 
+2026-02-18 18:46:51,952 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:46:51,953 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:46:51,953 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:46:51,953 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:46:51,953 - IntegrationCoordinator - INFO - 
+2026-02-18 18:47:51,954 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:47:51,954 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:47:51,954 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:47:51,955 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:47:51,955 - IntegrationCoordinator - INFO - 
+2026-02-18 18:48:51,955 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:48:51,956 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:48:51,956 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:48:51,956 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:48:51,956 - IntegrationCoordinator - INFO - 
+2026-02-18 18:49:51,957 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:49:51,957 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:49:51,957 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:49:51,958 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:49:51,958 - IntegrationCoordinator - INFO - 
+2026-02-18 18:50:51,958 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:50:51,958 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:50:51,959 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:50:51,959 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:50:51,959 - IntegrationCoordinator - INFO - 
+2026-02-18 18:51:51,960 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:51:51,960 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:51:51,960 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:51:51,960 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:51:51,961 - IntegrationCoordinator - INFO - 
+2026-02-18 18:52:51,961 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:52:51,961 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:52:51,961 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:52:51,962 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:52:51,962 - IntegrationCoordinator - INFO - 
+2026-02-18 18:53:51,963 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:53:51,963 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:53:51,963 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:53:51,963 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:53:51,964 - IntegrationCoordinator - INFO - 
+2026-02-18 18:54:51,964 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:54:51,964 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:54:51,964 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:54:51,965 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:54:51,965 - IntegrationCoordinator - INFO - 
+2026-02-18 18:55:51,966 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:55:51,966 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:55:51,966 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:55:51,966 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:55:51,967 - IntegrationCoordinator - INFO - 
+2026-02-18 18:56:51,967 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:56:51,967 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:56:51,967 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:56:51,968 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:56:51,968 - IntegrationCoordinator - INFO - 
+2026-02-18 18:57:51,972 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:57:51,972 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:57:51,972 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:57:51,973 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:57:51,973 - IntegrationCoordinator - INFO - 
+2026-02-18 18:58:51,973 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:58:51,974 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:58:51,974 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:58:51,974 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:58:51,975 - IntegrationCoordinator - INFO - 
+2026-02-18 18:59:51,975 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:59:51,975 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 18:59:51,975 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 18:59:51,976 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 18:59:51,976 - IntegrationCoordinator - INFO - 
+2026-02-18 19:00:51,978 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:00:51,978 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:00:51,979 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:00:51,980 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:00:51,980 - IntegrationCoordinator - INFO - 
+2026-02-18 19:01:51,981 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:01:51,981 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:01:51,981 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:01:51,981 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:01:51,982 - IntegrationCoordinator - INFO - 
+2026-02-18 19:02:51,983 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:02:51,983 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:02:51,983 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:02:51,983 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:02:51,983 - IntegrationCoordinator - INFO - 
+2026-02-18 19:03:51,984 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:03:51,984 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:03:51,984 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:03:51,984 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:03:51,984 - IntegrationCoordinator - INFO - 
+2026-02-18 19:04:51,985 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:04:51,985 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:04:51,985 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:04:51,985 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:04:51,985 - IntegrationCoordinator - INFO - 
+2026-02-18 19:05:51,986 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:05:51,986 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:05:51,986 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:05:51,987 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:05:51,987 - IntegrationCoordinator - INFO - 
+2026-02-18 19:06:51,987 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:06:51,987 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:06:51,988 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:06:51,988 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:06:51,988 - IntegrationCoordinator - INFO - 
+2026-02-18 19:07:51,988 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:07:51,989 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:07:51,989 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:07:51,989 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:07:51,989 - IntegrationCoordinator - INFO - 
+2026-02-18 19:08:51,990 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:08:51,990 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:08:51,990 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:08:51,991 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:08:51,991 - IntegrationCoordinator - INFO - 
+2026-02-18 19:09:51,991 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:09:51,992 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:09:51,992 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:09:51,992 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:09:51,992 - IntegrationCoordinator - INFO - 
+2026-02-18 19:10:51,993 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:10:51,993 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:10:51,993 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:10:51,994 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:10:51,994 - IntegrationCoordinator - INFO - 
+2026-02-18 19:11:51,994 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:11:51,994 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:11:51,994 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:11:51,995 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:11:51,995 - IntegrationCoordinator - INFO - 
+2026-02-18 19:12:51,996 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:12:51,996 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:12:52,001 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:12:52,002 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:12:52,002 - IntegrationCoordinator - INFO - 
+2026-02-18 19:13:52,003 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:13:52,003 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:13:52,004 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:13:52,004 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:13:52,004 - IntegrationCoordinator - INFO - 
+2026-02-18 19:14:52,005 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:14:52,005 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:14:52,006 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:14:52,006 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:14:52,006 - IntegrationCoordinator - INFO - 
+2026-02-18 19:15:52,007 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:15:52,007 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:15:52,007 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:15:52,008 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:15:52,008 - IntegrationCoordinator - INFO - 
+2026-02-18 19:16:52,008 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:16:52,009 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:16:52,009 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:16:52,009 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:16:52,009 - IntegrationCoordinator - INFO - 
+2026-02-18 19:17:52,010 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:17:52,010 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:17:52,010 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:17:52,011 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:17:52,011 - IntegrationCoordinator - INFO - 
+2026-02-18 19:18:52,011 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:18:52,012 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:18:52,012 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:18:52,013 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:18:52,013 - IntegrationCoordinator - INFO - 
+2026-02-18 19:19:52,014 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:19:52,014 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:19:52,014 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:19:52,014 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:19:52,014 - IntegrationCoordinator - INFO - 
+2026-02-18 19:20:52,015 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:20:52,015 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:20:52,015 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:20:52,016 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:20:52,016 - IntegrationCoordinator - INFO - 
+2026-02-18 19:21:52,016 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:21:52,016 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:21:52,017 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:21:52,017 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:21:52,017 - IntegrationCoordinator - INFO - 
+2026-02-18 19:22:52,018 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:22:52,018 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:22:52,018 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:22:52,019 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:22:52,019 - IntegrationCoordinator - INFO - 
+2026-02-18 19:23:52,019 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:23:52,020 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:23:52,020 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:23:52,021 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:23:52,021 - IntegrationCoordinator - INFO - 
+2026-02-18 19:24:52,022 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:24:52,022 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:24:52,022 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:24:52,023 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:24:52,023 - IntegrationCoordinator - INFO - 
+2026-02-18 19:25:52,024 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:25:52,024 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:25:52,024 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:25:52,024 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:25:52,024 - IntegrationCoordinator - INFO - 
+2026-02-18 19:26:52,025 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:26:52,026 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:26:52,026 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:26:52,026 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:26:52,026 - IntegrationCoordinator - INFO - 
+2026-02-18 19:27:52,030 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:27:52,030 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:27:52,030 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:27:52,030 - IntegrationCoordinator - INFO - Processing 1 files in Needs_Action
+2026-02-18 19:27:52,030 - IntegrationCoordinator - INFO - Processing: EMAIL_20260218_193000_pricing_inquiry.md
+2026-02-18 19:27:52,031 - IntegrationCoordinator - INFO - Processing email action
+2026-02-18 19:27:52,032 - IntegrationCoordinator - INFO - Created plan: PLAN_email_EMAIL_20260218_193000_pricing_inquiry.md
+2026-02-18 19:27:52,033 - IntegrationCoordinator - INFO - Created approval request: EMAIL_REPLY_20260218_192752.md
+2026-02-18 19:27:52,038 - IntegrationCoordinator - INFO - Moved original to Done: EMAIL_20260218_193000_pricing_inquiry.md
+2026-02-18 19:27:52,038 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:27:52,038 - IntegrationCoordinator - INFO - 
+2026-02-18 19:28:52,039 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:28:52,039 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:28:52,039 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:28:52,040 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:28:52,040 - IntegrationCoordinator - INFO - 
+2026-02-18 19:29:52,041 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:29:52,041 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:29:52,041 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:29:52,042 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:29:52,042 - IntegrationCoordinator - INFO - 
+2026-02-18 19:30:52,042 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:30:52,043 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:30:52,043 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:30:52,043 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:30:52,044 - IntegrationCoordinator - INFO - 
+2026-02-18 19:31:52,044 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:31:52,044 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:31:52,045 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:31:52,045 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:31:52,045 - IntegrationCoordinator - INFO - 
+2026-02-18 19:32:52,046 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:32:52,047 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:32:52,047 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:32:52,047 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:32:52,047 - IntegrationCoordinator - INFO - 
+2026-02-18 19:33:52,048 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:33:52,048 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:33:52,048 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:33:52,049 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:33:52,049 - IntegrationCoordinator - INFO - 
+2026-02-18 19:34:52,049 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:34:52,050 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:34:52,050 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:34:52,050 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:34:52,050 - IntegrationCoordinator - INFO - 
+2026-02-18 19:35:52,051 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:35:52,051 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:35:52,051 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:35:52,051 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:35:52,052 - IntegrationCoordinator - INFO - 
+2026-02-18 19:36:52,052 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:36:52,052 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:36:52,052 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:36:52,053 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:36:52,053 - IntegrationCoordinator - INFO - 
+2026-02-18 19:37:52,053 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:37:52,054 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:37:52,054 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:37:52,054 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:37:52,054 - IntegrationCoordinator - INFO - 
+2026-02-18 19:38:52,055 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:38:52,055 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:38:52,055 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:38:52,055 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:38:52,056 - IntegrationCoordinator - INFO - 
+2026-02-18 19:39:52,057 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:39:52,057 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:39:52,058 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:39:52,058 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:39:52,058 - IntegrationCoordinator - INFO - 
+2026-02-18 19:40:52,060 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:40:52,060 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:40:52,061 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:40:52,063 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:40:52,063 - IntegrationCoordinator - INFO - 
+2026-02-18 19:41:52,063 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:41:52,064 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:41:52,064 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:41:52,064 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:41:52,064 - IntegrationCoordinator - INFO - 
+2026-02-18 19:42:52,065 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:42:52,066 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:42:52,066 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:42:52,066 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:42:52,066 - IntegrationCoordinator - INFO - 
+2026-02-18 19:43:52,067 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:43:52,067 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:43:52,067 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:43:52,068 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:43:52,068 - IntegrationCoordinator - INFO - 
+2026-02-18 19:44:52,068 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:44:52,069 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:44:52,069 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:44:52,070 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:44:52,070 - IntegrationCoordinator - INFO - 
+2026-02-18 19:45:52,071 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:45:52,071 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:45:52,071 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:45:52,072 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:45:52,072 - IntegrationCoordinator - INFO - 
+2026-02-18 19:46:52,072 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:46:52,073 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:46:52,073 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:46:52,073 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:46:52,073 - IntegrationCoordinator - INFO - 
+2026-02-18 19:47:52,074 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:47:52,075 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:47:52,075 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:47:52,075 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:47:52,075 - IntegrationCoordinator - INFO - 
+2026-02-18 19:48:52,076 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:48:52,076 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:48:52,076 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:48:52,077 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:48:52,077 - IntegrationCoordinator - INFO - 
+2026-02-18 19:49:52,077 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:49:52,078 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:49:52,078 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:49:52,078 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:49:52,078 - IntegrationCoordinator - INFO - 
+2026-02-18 19:50:52,079 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:50:52,079 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:50:52,079 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:50:52,079 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:50:52,079 - IntegrationCoordinator - INFO - 
+2026-02-18 19:51:52,080 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:51:52,080 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:51:52,081 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:51:52,081 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:51:52,081 - IntegrationCoordinator - INFO - 
+2026-02-18 19:52:52,082 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:52:52,082 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:52:52,082 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:52:52,083 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:52:52,083 - IntegrationCoordinator - INFO - 
+2026-02-18 19:53:52,084 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:53:52,084 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:53:52,084 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:53:52,085 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:53:52,085 - IntegrationCoordinator - INFO - 
+2026-02-18 19:54:52,085 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:54:52,086 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:54:52,086 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:54:52,086 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:54:52,086 - IntegrationCoordinator - INFO - 
+2026-02-18 19:55:52,091 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:55:52,092 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:55:52,092 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:55:52,092 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:55:52,093 - IntegrationCoordinator - INFO - 
+2026-02-18 19:56:52,093 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:56:52,093 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:56:52,093 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:56:52,094 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:56:52,094 - IntegrationCoordinator - INFO - 
+2026-02-18 19:57:52,095 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:57:52,095 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:57:52,095 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:57:52,095 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:57:52,096 - IntegrationCoordinator - INFO - 
+2026-02-18 19:58:52,097 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:58:52,097 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:58:52,097 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:58:52,098 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:58:52,098 - IntegrationCoordinator - INFO - 
+2026-02-18 19:59:52,098 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:59:52,098 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 19:59:52,099 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 19:59:52,099 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 19:59:52,099 - IntegrationCoordinator - INFO - 
+2026-02-18 20:00:52,100 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:00:52,100 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:00:52,100 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:00:52,101 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:00:52,101 - IntegrationCoordinator - INFO - 
+2026-02-18 20:01:52,102 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:01:52,102 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:01:52,102 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:01:52,103 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:01:52,103 - IntegrationCoordinator - INFO - 
+2026-02-18 20:02:52,104 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:02:52,104 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:02:52,104 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:02:52,104 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:02:52,105 - IntegrationCoordinator - INFO - 
+2026-02-18 20:03:52,106 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:03:52,106 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:03:52,106 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:03:52,107 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:03:52,107 - IntegrationCoordinator - INFO - 
+2026-02-18 20:04:52,108 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:04:52,108 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:04:52,109 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:04:52,110 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:04:52,110 - IntegrationCoordinator - INFO - 
+2026-02-18 20:05:52,111 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:05:52,111 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:05:52,111 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:05:52,111 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:05:52,112 - IntegrationCoordinator - INFO - 
+2026-02-18 20:06:52,112 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:06:52,112 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:06:52,112 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:06:52,113 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:06:52,113 - IntegrationCoordinator - INFO - 
+2026-02-18 20:07:52,113 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:07:52,113 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:07:52,114 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:07:52,114 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:07:52,114 - IntegrationCoordinator - INFO - 
+2026-02-18 20:08:52,115 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:08:52,115 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:08:52,115 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:08:52,116 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:08:52,116 - IntegrationCoordinator - INFO - 
+2026-02-18 20:09:52,116 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:09:52,117 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:09:52,117 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:09:52,117 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:09:52,118 - IntegrationCoordinator - INFO - 
+2026-02-18 20:10:52,118 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:10:52,118 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:10:52,119 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:10:52,119 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:10:52,119 - IntegrationCoordinator - INFO - 
+2026-02-18 20:11:52,120 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:11:52,120 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:11:52,120 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:11:52,120 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:11:52,121 - IntegrationCoordinator - INFO - 
+2026-02-18 20:12:52,122 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:12:52,122 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:12:52,122 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:12:52,122 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:12:52,122 - IntegrationCoordinator - INFO - 
+2026-02-18 20:13:52,123 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:13:52,123 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:13:52,123 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:13:52,124 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:13:52,124 - IntegrationCoordinator - INFO - 
+2026-02-18 20:14:52,124 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:14:52,124 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:14:52,124 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:14:52,125 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:14:52,125 - IntegrationCoordinator - INFO - 
+2026-02-18 20:15:52,125 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:15:52,125 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:15:52,126 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:15:52,126 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:15:52,126 - IntegrationCoordinator - INFO - 
+2026-02-18 20:16:52,126 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:16:52,127 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:16:52,127 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:16:52,127 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:16:52,127 - IntegrationCoordinator - INFO - 
+2026-02-18 20:17:52,128 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:17:52,128 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:17:52,128 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:17:52,129 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:17:52,129 - IntegrationCoordinator - INFO - 
+2026-02-18 20:18:52,130 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:18:52,130 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:18:52,131 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:18:52,131 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:18:52,131 - IntegrationCoordinator - INFO - 
+2026-02-18 20:19:52,156 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:19:52,156 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:19:52,157 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:19:52,157 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:19:52,157 - IntegrationCoordinator - INFO - 
+2026-02-18 20:20:52,158 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:20:52,159 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:20:52,159 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:20:52,160 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:20:52,160 - IntegrationCoordinator - INFO - 
+2026-02-18 20:21:52,160 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:21:52,160 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:21:52,161 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:21:52,161 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:21:52,161 - IntegrationCoordinator - INFO - 
+2026-02-18 20:22:52,162 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:22:52,162 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:22:52,162 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:22:52,163 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:22:52,163 - IntegrationCoordinator - INFO - 
+2026-02-18 20:23:52,163 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:23:52,164 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:23:52,164 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:23:52,164 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:23:52,164 - IntegrationCoordinator - INFO - 
+2026-02-18 20:24:52,165 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:24:52,165 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:24:52,165 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:24:52,165 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:24:52,165 - IntegrationCoordinator - INFO - 
+2026-02-18 20:25:52,166 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:25:52,166 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:25:52,166 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:25:52,166 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:25:52,167 - IntegrationCoordinator - INFO - 
+2026-02-18 20:26:52,167 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:26:52,168 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:26:52,168 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:26:52,168 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:26:52,168 - IntegrationCoordinator - INFO - 
+2026-02-18 20:27:52,169 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:27:52,169 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:27:52,169 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:27:52,169 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:27:52,170 - IntegrationCoordinator - INFO - 
+2026-02-18 20:28:52,170 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:28:52,171 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:28:52,171 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:28:52,171 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:28:52,171 - IntegrationCoordinator - INFO - 
+2026-02-18 20:29:52,172 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:29:52,172 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:29:52,173 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:29:52,173 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:29:52,173 - IntegrationCoordinator - INFO - 
+2026-02-18 20:30:52,174 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:30:52,174 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:30:52,174 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:30:52,174 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:30:52,175 - IntegrationCoordinator - INFO - 
+2026-02-18 20:31:52,175 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:31:52,176 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:31:52,176 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:31:52,176 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:31:52,176 - IntegrationCoordinator - INFO - 
+2026-02-18 20:32:52,177 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:32:52,177 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:32:52,177 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:32:52,178 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:32:52,178 - IntegrationCoordinator - INFO - 
+2026-02-18 20:33:52,178 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:33:52,179 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:33:52,179 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:33:52,179 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:33:52,179 - IntegrationCoordinator - INFO - 
+2026-02-18 20:34:52,180 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:34:52,180 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:34:52,181 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:34:52,181 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:34:52,181 - IntegrationCoordinator - INFO - 
+2026-02-18 20:35:52,181 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:35:52,182 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:35:52,182 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:35:52,182 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:35:52,182 - IntegrationCoordinator - INFO - 
+2026-02-18 20:36:52,183 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:36:52,183 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:36:52,183 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:36:52,184 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:36:52,184 - IntegrationCoordinator - INFO - 
+2026-02-18 20:37:52,185 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:37:52,185 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:37:52,185 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:37:52,185 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:37:52,186 - IntegrationCoordinator - INFO - 
+2026-02-18 20:38:52,187 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:38:52,187 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:38:52,187 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:38:52,187 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:38:52,188 - IntegrationCoordinator - INFO - 
+2026-02-18 20:39:52,188 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:39:52,188 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:39:52,188 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:39:52,189 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:39:52,189 - IntegrationCoordinator - INFO - 
+2026-02-18 20:40:52,189 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:40:52,189 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:40:52,189 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:40:52,190 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:40:52,190 - IntegrationCoordinator - INFO - 
+2026-02-18 20:41:52,190 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:41:52,191 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:41:52,191 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:41:52,191 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:41:52,191 - IntegrationCoordinator - INFO - 
+2026-02-18 20:42:52,192 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:42:52,192 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:42:52,192 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:42:52,193 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:42:52,193 - IntegrationCoordinator - INFO - 
+2026-02-18 20:43:52,193 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:43:52,194 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:43:52,194 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:43:52,194 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:43:52,194 - IntegrationCoordinator - INFO - 
+2026-02-18 20:44:52,195 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:44:52,195 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:44:52,195 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:44:52,195 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:44:52,196 - IntegrationCoordinator - INFO - 
+2026-02-18 20:45:52,196 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:45:52,196 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:45:52,197 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:45:52,197 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:45:52,197 - IntegrationCoordinator - INFO - 
+2026-02-18 20:46:52,198 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:46:52,198 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:46:52,198 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:46:52,198 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:46:52,198 - IntegrationCoordinator - INFO - 
+2026-02-18 20:47:52,199 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:47:52,199 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:47:52,199 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:47:52,199 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:47:52,199 - IntegrationCoordinator - INFO - 
+2026-02-18 20:48:52,200 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:48:52,200 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:48:52,200 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:48:52,201 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:48:52,201 - IntegrationCoordinator - INFO - 
+2026-02-18 20:49:52,201 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:49:52,201 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 20:49:52,201 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 20:49:52,202 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 20:49:52,202 - IntegrationCoordinator - INFO - 
+2026-02-18 21:26:04,831 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:26:04,831 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:26:04,832 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:26:04,838 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:26:04,838 - IntegrationCoordinator - INFO - 
+2026-02-18 21:27:04,838 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:27:04,839 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:27:04,839 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:27:04,839 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:27:04,840 - IntegrationCoordinator - INFO - 
+2026-02-18 21:28:04,840 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:28:04,841 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:28:04,841 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:28:04,841 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:28:04,842 - IntegrationCoordinator - INFO - 
+2026-02-18 21:29:04,844 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:29:04,844 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:29:04,844 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:29:04,845 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:29:04,845 - IntegrationCoordinator - INFO - 
+2026-02-18 21:30:04,846 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:30:04,846 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:30:04,846 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:30:04,846 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:30:04,846 - IntegrationCoordinator - INFO - 
+2026-02-18 21:31:04,847 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:31:04,847 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:31:04,847 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:31:04,847 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:31:04,848 - IntegrationCoordinator - INFO - 
+2026-02-18 21:32:04,848 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:32:04,848 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:32:04,848 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:32:04,849 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:32:04,849 - IntegrationCoordinator - INFO - 
+2026-02-18 21:33:04,850 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:33:04,850 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:33:04,850 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:33:04,850 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:33:04,851 - IntegrationCoordinator - INFO - 
+2026-02-18 21:34:04,851 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:34:04,852 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:34:04,852 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:34:04,852 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:34:04,852 - IntegrationCoordinator - INFO - 
+2026-02-18 21:35:04,853 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:35:04,853 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:35:04,853 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:35:04,854 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:35:04,854 - IntegrationCoordinator - INFO - 
+2026-02-18 21:36:04,854 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:36:04,855 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:36:04,855 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:36:04,855 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:36:04,855 - IntegrationCoordinator - INFO - 
+2026-02-18 21:37:04,856 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:37:04,856 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:37:04,856 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:37:04,856 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:37:04,857 - IntegrationCoordinator - INFO - 
+2026-02-18 21:38:04,857 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:38:04,858 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:38:04,858 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:38:04,858 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:38:04,858 - IntegrationCoordinator - INFO - 
+2026-02-18 21:39:04,859 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:39:04,859 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:39:04,859 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:39:04,860 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:39:04,860 - IntegrationCoordinator - INFO - 
+2026-02-18 21:40:04,860 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:40:04,861 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:40:04,861 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:40:04,861 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:40:04,861 - IntegrationCoordinator - INFO - 
+2026-02-18 21:41:04,862 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:41:04,862 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:41:04,862 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:41:04,863 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:41:04,863 - IntegrationCoordinator - INFO - 
+2026-02-18 21:42:04,863 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:42:04,863 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:42:04,864 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:42:04,864 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:42:04,864 - IntegrationCoordinator - INFO - 
+2026-02-18 21:43:04,865 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:43:04,865 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:43:04,866 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:43:04,866 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:43:04,866 - IntegrationCoordinator - INFO - 
+2026-02-18 21:44:04,867 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:44:04,867 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:44:04,867 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:44:04,867 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:44:04,868 - IntegrationCoordinator - INFO - 
+2026-02-18 21:45:04,869 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:45:04,869 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:45:04,869 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:45:04,870 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:45:04,870 - IntegrationCoordinator - INFO - 
+2026-02-18 21:46:04,870 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:46:04,871 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:46:04,871 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:46:04,871 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:46:04,871 - IntegrationCoordinator - INFO - 
+2026-02-18 21:47:04,872 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:47:04,872 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:47:04,872 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:47:04,873 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:47:04,873 - IntegrationCoordinator - INFO - 
+2026-02-18 21:48:04,873 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:48:04,874 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:48:04,875 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:48:04,876 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:48:04,876 - IntegrationCoordinator - INFO - 
+2026-02-18 21:49:04,877 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:49:04,877 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:49:04,877 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:49:04,878 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:49:04,878 - IntegrationCoordinator - INFO - 
+2026-02-18 21:50:04,879 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:50:04,879 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:50:04,879 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:50:04,880 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:50:04,880 - IntegrationCoordinator - INFO - 
+2026-02-18 21:51:04,881 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:51:04,881 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:51:04,881 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:51:04,882 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:51:04,882 - IntegrationCoordinator - INFO - 
+2026-02-18 21:52:04,882 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:52:04,883 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:52:04,883 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:52:04,883 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:52:04,883 - IntegrationCoordinator - INFO - 
+2026-02-18 21:53:04,884 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:53:04,884 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:53:04,884 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:53:04,885 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:53:04,885 - IntegrationCoordinator - INFO - 
+2026-02-18 21:54:04,885 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:54:04,885 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:54:04,886 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:54:04,886 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:54:04,886 - IntegrationCoordinator - INFO - 
+2026-02-18 21:55:04,887 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:55:04,887 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:55:04,887 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:55:04,887 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:55:04,888 - IntegrationCoordinator - INFO - 
+2026-02-18 21:56:04,888 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:56:04,888 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:56:04,889 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:56:04,889 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:56:04,890 - IntegrationCoordinator - INFO - 
+2026-02-18 21:57:04,891 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:57:04,892 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:57:04,892 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:57:04,893 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:57:04,893 - IntegrationCoordinator - INFO - 
+2026-02-18 21:58:04,894 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:58:04,894 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:58:04,894 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:58:04,894 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:58:04,895 - IntegrationCoordinator - INFO - 
+2026-02-18 21:59:04,896 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:59:04,897 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 21:59:04,897 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 21:59:04,897 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 21:59:04,898 - IntegrationCoordinator - INFO - 
+2026-02-18 22:00:04,898 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:00:04,898 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:00:04,898 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:00:04,899 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:00:04,899 - IntegrationCoordinator - INFO - 
+2026-02-18 22:01:04,899 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:01:04,900 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:01:04,900 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:01:04,900 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:01:04,900 - IntegrationCoordinator - INFO - 
+2026-02-18 22:02:04,901 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:02:04,902 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:02:04,902 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:02:04,902 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:02:04,902 - IntegrationCoordinator - INFO - 
+2026-02-18 22:03:04,903 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:03:04,903 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:03:04,904 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:03:04,904 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:03:04,904 - IntegrationCoordinator - INFO - 
+2026-02-18 22:04:04,904 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:04:04,905 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:04:04,905 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:04:04,905 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:04:04,905 - IntegrationCoordinator - INFO - 
+2026-02-18 22:05:04,906 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:05:04,906 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:05:04,907 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:05:04,907 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:05:04,907 - IntegrationCoordinator - INFO - 
+2026-02-18 22:06:04,908 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:06:04,908 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:06:04,908 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:06:04,908 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:06:04,908 - IntegrationCoordinator - INFO - 
+2026-02-18 22:07:04,909 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:07:04,909 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:07:04,909 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:07:04,910 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:07:04,910 - IntegrationCoordinator - INFO - 
+2026-02-18 22:08:04,910 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:08:04,911 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:08:04,911 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:08:04,911 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:08:04,911 - IntegrationCoordinator - INFO - 
+2026-02-18 22:09:04,913 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:09:04,913 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:09:04,913 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:09:04,914 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:09:04,914 - IntegrationCoordinator - INFO - 
+2026-02-18 22:10:04,914 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:10:04,914 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:10:04,914 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:10:04,915 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:10:04,915 - IntegrationCoordinator - INFO - 
+2026-02-18 22:11:04,916 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:11:04,916 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:11:04,916 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:11:04,916 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:11:04,917 - IntegrationCoordinator - INFO - 
+2026-02-18 22:12:04,917 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:12:04,918 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:12:04,918 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:12:04,918 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:12:04,919 - IntegrationCoordinator - INFO - 
+2026-02-18 22:13:04,919 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:13:04,920 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:13:04,920 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:13:04,920 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:13:04,920 - IntegrationCoordinator - INFO - 
+2026-02-18 22:14:04,921 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:14:04,921 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:14:04,921 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:14:04,922 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:14:04,922 - IntegrationCoordinator - INFO - 
+2026-02-18 22:15:04,923 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:15:04,923 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:15:04,923 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:15:04,923 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:15:04,924 - IntegrationCoordinator - INFO - 
+2026-02-18 22:16:04,925 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:16:04,925 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:16:04,925 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:16:04,925 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:16:04,925 - IntegrationCoordinator - INFO - 
+2026-02-18 22:17:04,926 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:17:04,926 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:17:04,926 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:17:04,927 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:17:04,927 - IntegrationCoordinator - INFO - 
+2026-02-18 22:18:04,928 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:18:04,928 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:18:04,928 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:18:04,928 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:18:04,929 - IntegrationCoordinator - INFO - 
+2026-02-18 22:19:04,929 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:19:04,929 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:19:04,929 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:19:04,930 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:19:04,930 - IntegrationCoordinator - INFO - 
+2026-02-18 22:20:04,931 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:20:04,931 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:20:04,931 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:20:04,931 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:20:04,932 - IntegrationCoordinator - INFO - 
+2026-02-18 22:21:04,932 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:21:04,932 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:21:04,933 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:21:04,933 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:21:04,933 - IntegrationCoordinator - INFO - 
+2026-02-18 22:22:04,934 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:22:04,934 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:22:04,934 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:22:04,935 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:22:04,935 - IntegrationCoordinator - INFO - 
+2026-02-18 22:23:04,936 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:23:04,936 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:23:04,936 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:23:04,936 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:23:04,937 - IntegrationCoordinator - INFO - 
+2026-02-18 22:24:04,937 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:24:04,937 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:24:04,938 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:24:04,938 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:24:04,938 - IntegrationCoordinator - INFO - 
+2026-02-18 22:25:04,938 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:25:04,939 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:25:04,939 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:25:04,939 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:25:04,940 - IntegrationCoordinator - INFO - 
+2026-02-18 22:26:04,940 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:26:04,940 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:26:04,940 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:26:04,941 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:26:04,941 - IntegrationCoordinator - INFO - 
+2026-02-18 22:27:04,941 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:27:04,942 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:27:04,942 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:27:04,942 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:27:04,943 - IntegrationCoordinator - INFO - 
+2026-02-18 22:28:04,943 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:28:04,943 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:28:04,943 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:28:04,944 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:28:04,944 - IntegrationCoordinator - INFO - 
+2026-02-18 22:29:04,945 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:29:04,945 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:29:04,945 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:29:04,945 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:29:04,946 - IntegrationCoordinator - INFO - 
+2026-02-18 22:30:04,946 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:30:04,946 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:30:04,946 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:30:04,947 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:30:04,947 - IntegrationCoordinator - INFO - 
+2026-02-18 22:31:04,947 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:31:04,947 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:31:04,948 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:31:04,948 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:31:04,948 - IntegrationCoordinator - INFO - 
+2026-02-18 22:32:04,949 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:32:04,949 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:32:04,949 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:32:04,949 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:32:04,950 - IntegrationCoordinator - INFO - 
+2026-02-18 22:33:04,950 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:33:04,950 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:33:04,950 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:33:04,951 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:33:04,951 - IntegrationCoordinator - INFO - 
+2026-02-18 22:34:04,951 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:34:04,952 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:34:04,952 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:34:04,952 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:34:04,952 - IntegrationCoordinator - INFO - 
+2026-02-18 22:35:04,953 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:35:04,953 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:35:04,953 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:35:04,953 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:35:04,954 - IntegrationCoordinator - INFO - 
+2026-02-18 22:36:04,954 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:36:04,954 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:36:04,954 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:36:04,955 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:36:04,955 - IntegrationCoordinator - INFO - 
+2026-02-18 22:37:04,955 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:37:04,955 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:37:04,956 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:37:04,956 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:37:04,956 - IntegrationCoordinator - INFO - 
+2026-02-18 22:38:04,957 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:38:04,957 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:38:04,957 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:38:04,958 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:38:04,958 - IntegrationCoordinator - INFO - 
+2026-02-18 22:39:04,958 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:39:04,958 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:39:04,959 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:39:04,959 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:39:04,959 - IntegrationCoordinator - INFO - 
+2026-02-18 22:40:04,959 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:40:04,959 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:40:04,960 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:40:04,960 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:40:04,960 - IntegrationCoordinator - INFO - 
+2026-02-18 22:41:04,961 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:41:04,961 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:41:04,961 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:41:04,962 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:41:04,962 - IntegrationCoordinator - INFO - 
+2026-02-18 22:42:04,963 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:42:04,963 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:42:04,963 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:42:04,964 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:42:04,964 - IntegrationCoordinator - INFO - 
+2026-02-18 22:43:04,965 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:43:04,965 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:43:04,965 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:43:04,966 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:43:04,966 - IntegrationCoordinator - INFO - 
+2026-02-18 22:44:04,966 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:44:04,966 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:44:04,966 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:44:04,967 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:44:04,967 - IntegrationCoordinator - INFO - 
+2026-02-18 22:45:04,967 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:45:04,967 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:45:04,968 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:45:04,968 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:45:04,968 - IntegrationCoordinator - INFO - 
+2026-02-18 22:46:04,969 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:46:04,969 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:46:04,969 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:46:04,970 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:46:04,970 - IntegrationCoordinator - INFO - 
+2026-02-18 22:47:04,971 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:47:04,971 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:47:04,971 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:47:04,971 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:47:04,971 - IntegrationCoordinator - INFO - 
+2026-02-18 22:48:04,972 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:48:04,972 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:48:04,972 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:48:04,973 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:48:04,973 - IntegrationCoordinator - INFO - 
+2026-02-18 22:49:04,974 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:49:04,974 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:49:04,974 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:49:04,975 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:49:04,975 - IntegrationCoordinator - INFO - 
+2026-02-18 22:50:04,975 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:50:04,975 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:50:04,975 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:50:04,976 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:50:04,976 - IntegrationCoordinator - INFO - 
+2026-02-18 22:51:04,976 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:51:04,977 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 22:51:04,977 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 22:51:04,977 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 22:51:04,977 - IntegrationCoordinator - INFO - 
+2026-02-18 23:48:04,982 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 23:48:04,983 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 23:48:04,983 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 23:48:04,984 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 23:48:04,984 - IntegrationCoordinator - INFO - 
+2026-02-18 23:49:04,987 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 23:49:04,987 - IntegrationCoordinator - INFO - Integration Coordinator - Processing Cycle
+2026-02-18 23:49:04,987 - IntegrationCoordinator - INFO - ======================================================================
+2026-02-18 23:49:04,987 - IntegrationCoordinator - INFO - Processing cycle complete
+2026-02-18 23:49:04,987 - IntegrationCoordinator - INFO - 

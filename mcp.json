@@ -8,6 +8,17 @@
         "C:/Users/Dell/Desktop/New folder (3)/AI_personal_Employee"
       ],
       "description": "File system access for AI Employee vaults"
+    },
+    "email": {
+      "command": "node",
+      "args": [
+        "mcp_servers/email-mcp/index.js"
+      ],
+      "env": {
+        "GMAIL_EMAIL": "${GMAIL_EMAIL}",
+        "GMAIL_PASSWORD": "${GMAIL_PASSWORD}"
+      },
+      "description": "Email sending via Gmail SMTP"
     }
   },
   "globalShortcut": "Ctrl+Shift+Space",

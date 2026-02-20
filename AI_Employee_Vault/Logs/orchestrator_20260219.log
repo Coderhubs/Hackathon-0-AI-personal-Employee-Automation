@@ -1,0 +1,560 @@
+2026-02-19 23:34:19,598 - MasterOrchestrator - INFO - ============================================================
+2026-02-19 23:34:19,601 - MasterOrchestrator - INFO - 24/7 Master Orchestrator Started
+2026-02-19 23:34:19,603 - MasterOrchestrator - INFO - ============================================================
+2026-02-19 23:34:19,606 - MasterOrchestrator - INFO - Gmail check interval: 120 seconds
+2026-02-19 23:34:19,608 - MasterOrchestrator - INFO - Approval check interval: 10 seconds
+2026-02-19 23:34:19,611 - MasterOrchestrator - INFO - Vault path: C:\Users\Dell\Desktop\New folder (3)\AI_personal_Employee\AI_Employee_Vault
+2026-02-19 23:34:19,613 - MasterOrchestrator - INFO - ============================================================
+2026-02-19 23:34:19,615 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:35:19,668 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:35:19,671 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:35:19,673 - MasterOrchestrator - INFO - Processing approved file: EMAIL_REPLY_20260218_192752.md
+2026-02-19 23:35:19,701 - MasterOrchestrator - INFO - Executing email action...
+2026-02-19 23:35:19,820 - MasterOrchestrator - ERROR - Error executing EMAIL_REPLY_20260218_192752.md: 'charmap' codec can't encode character '\u2713' in position 41: character maps to <undefined>
+2026-02-19 23:35:19,821 - MasterOrchestrator - INFO - Processing approved file: LINKEDIN_POST_engagement_20260218_202458.md
+2026-02-19 23:35:19,849 - MasterOrchestrator - INFO - Executing LinkedIn action...
+2026-02-19 23:40:23,572 - MasterOrchestrator - ERROR - Error executing LINKEDIN_POST_engagement_20260218_202458.md: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\linkedin_automation.py']' timed out after 300 seconds
+2026-02-19 23:40:23,575 - MasterOrchestrator - INFO - Processing approved file: TEST_EMAIL_DEMO.md
+2026-02-19 23:40:23,616 - MasterOrchestrator - INFO - Executing email action...
+2026-02-19 23:40:23,625 - MasterOrchestrator - ERROR - Error executing TEST_EMAIL_DEMO.md: 'charmap' codec can't encode character '\u2713' in position 41: character maps to <undefined>
+2026-02-19 23:40:24,630 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:41:24,715 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:41:24,718 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:41:32,852 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:41:34,882 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:41:42,990 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:41:45,046 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:41:53,094 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:41:55,151 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:42:03,170 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:42:05,174 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:42:13,597 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:42:15,600 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:42:23,613 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:42:25,619 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:43:25,644 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:43:25,646 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:43:33,658 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:43:35,661 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:43:43,672 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:43:45,696 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:43:53,720 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:43:55,760 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:44:03,855 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:44:05,878 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:44:13,897 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:44:15,906 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:44:24,010 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:44:26,018 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:45:26,042 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:45:26,044 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:45:34,057 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:45:36,061 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:45:44,133 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:45:46,136 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:45:54,161 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:45:56,164 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:46:04,198 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:46:06,200 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:46:14,247 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:46:16,250 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:46:24,359 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:46:26,361 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:47:26,389 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:47:26,391 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:47:34,431 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:47:36,434 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:47:44,465 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:47:46,468 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:47:54,475 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:47:56,478 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:48:04,485 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:48:06,488 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:48:14,497 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:48:16,499 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:48:24,507 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:48:26,509 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:49:27,783 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:49:27,798 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:49:36,013 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:49:38,130 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:49:46,213 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:49:48,215 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:49:56,302 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:49:58,305 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:50:06,337 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:50:08,361 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:50:16,607 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:50:18,612 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:50:26,619 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:51:26,648 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:51:26,653 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:51:26,662 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:51:36,739 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:51:36,747 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:51:46,813 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:51:46,820 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:51:56,844 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:51:56,852 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:52:06,994 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:52:07,182 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:52:17,284 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:52:17,315 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:52:26,718 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:53:26,768 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:53:26,771 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:53:27,828 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:53:36,860 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:53:37,872 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:53:46,879 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:53:47,889 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:53:56,931 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:53:57,943 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:54:06,953 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:54:07,960 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:54:16,966 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:54:17,973 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:54:26,978 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:55:27,064 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:55:27,066 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:55:28,073 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:55:37,080 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:55:38,085 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:55:47,092 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:55:48,099 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:55:57,121 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:55:58,126 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:56:07,147 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:56:08,155 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:56:17,189 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:56:18,201 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:56:27,207 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:57:27,229 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:57:27,231 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:57:28,235 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:57:37,247 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:57:38,251 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:57:47,382 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:57:48,415 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:57:57,440 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:57:58,444 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:58:07,577 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:58:09,050 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:58:18,108 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:58:19,114 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:58:28,120 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-19 23:59:28,131 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-19 23:59:28,133 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:59:29,137 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:59:38,171 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:59:39,175 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:59:48,421 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:59:49,426 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-19 23:59:58,458 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-19 23:59:59,462 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:00:08,495 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:00:09,499 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:00:18,504 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:00:19,509 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:00:28,514 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:01:28,534 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:01:28,535 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:01:29,540 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:01:38,547 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:01:39,554 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:01:48,560 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:01:49,564 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:01:58,569 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:01:59,573 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:02:08,577 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:02:09,583 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:02:18,588 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:02:19,592 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:02:28,596 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:03:28,615 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:03:28,616 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:03:29,619 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:03:38,624 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:03:39,628 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:03:48,634 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:03:49,639 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:03:58,645 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:03:59,649 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:04:08,655 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:04:09,659 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:04:18,664 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:04:19,669 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:04:28,674 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:05:28,705 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:05:28,706 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:05:29,711 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:05:38,715 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:05:39,720 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:05:48,727 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:05:49,731 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:05:58,736 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:05:59,741 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:06:08,745 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:06:09,750 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:06:18,755 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:06:19,759 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:06:28,764 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:07:28,795 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:07:28,796 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:07:29,802 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:07:38,880 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:07:39,885 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:07:48,890 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:07:49,894 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:07:58,905 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:07:59,911 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:08:08,959 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:08:09,963 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:08:18,968 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:08:19,972 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:08:29,064 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:09:29,083 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:09:29,084 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:09:30,087 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:09:39,091 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:09:40,095 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:09:49,099 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:09:50,104 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:09:59,109 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:10:00,113 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:10:09,118 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:10:10,122 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:10:19,126 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:10:20,137 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:10:29,143 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:11:29,171 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:11:29,173 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:11:30,177 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:11:39,185 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:11:40,190 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:11:49,194 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:11:50,198 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:11:59,204 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:12:00,207 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:12:09,234 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:12:10,238 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:12:19,242 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:12:20,247 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:12:29,251 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:13:29,274 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:13:29,275 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:13:30,279 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:13:39,285 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:13:40,289 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:13:49,294 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:13:50,298 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:13:59,303 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:14:00,310 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:14:09,314 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:14:10,319 - MasterOrchestrator - INFO - Status: 6 pending, 3 approved, 3 done
+2026-02-20 00:14:19,323 - MasterOrchestrator - INFO - Found 3 approved file(s)
+2026-02-20 00:14:20,327 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:14:29,484 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:15:29,558 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:15:29,560 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:15:30,564 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:15:39,569 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:15:40,574 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:15:49,582 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:15:50,587 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:15:59,591 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:16:00,595 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:16:09,601 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:16:10,606 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:16:19,610 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:16:20,614 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:16:29,619 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:17:29,628 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:17:29,630 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:17:30,634 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:17:39,640 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:17:40,648 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:17:49,658 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:17:50,669 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:17:59,675 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:18:00,680 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:18:09,685 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:18:10,689 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:18:19,693 - MasterOrchestrator - INFO - Found 2 approved file(s)
+2026-02-20 00:18:20,697 - MasterOrchestrator - INFO - Status: 6 pending, 2 approved, 4 done
+2026-02-20 00:18:29,717 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:19:29,734 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:19:29,735 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:19:30,740 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:19:39,749 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:19:40,754 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:19:49,760 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:19:50,764 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:19:59,768 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:20:00,773 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:20:09,778 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:20:10,782 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:20:19,786 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:20:20,791 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:20:29,796 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:21:29,818 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:21:29,819 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:21:30,823 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:21:39,871 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:21:40,875 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:21:49,903 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:21:50,908 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:21:59,915 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:22:00,919 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:22:09,931 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:22:10,936 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:22:19,941 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:22:20,948 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:22:29,951 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:23:29,979 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:23:29,981 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:23:30,989 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:23:40,285 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:23:41,292 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:23:50,577 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:23:51,595 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:24:00,710 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:24:01,723 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:24:10,917 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:24:12,419 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:24:21,549 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:24:22,554 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:24:30,722 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:25:30,754 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:25:30,757 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:25:32,765 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:25:41,179 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:25:43,222 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:25:51,289 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:25:54,565 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:26:01,617 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:26:04,877 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:26:11,927 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:26:14,940 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:26:22,100 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:26:25,117 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:26:31,163 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:27:31,181 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:27:31,183 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:27:35,206 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:27:41,209 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:27:45,215 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:27:51,219 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:27:55,310 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:28:01,321 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:28:05,340 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:28:11,351 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:28:15,378 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:28:21,388 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:28:25,409 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:28:31,414 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:29:31,425 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:29:35,434 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:29:45,489 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:29:55,500 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:30:05,508 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:30:15,519 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:30:25,531 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:30:31,536 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:31:31,733 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:31:35,799 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:31:45,809 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:31:55,817 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:32:05,857 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:32:15,989 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:32:26,036 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:32:32,191 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:33:32,225 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:33:36,232 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:33:46,244 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:33:56,268 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:34:06,303 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:34:16,313 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:34:26,322 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:34:32,326 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:35:32,346 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:35:36,364 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:35:46,374 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:35:56,382 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:36:06,390 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:36:16,398 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:36:26,405 - MasterOrchestrator - INFO - Status: 7 pending, 0 approved, 5 done
+2026-02-20 00:36:32,407 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:37:32,461 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:37:36,634 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:37:46,779 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:37:56,815 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:38:06,830 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:38:16,839 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:38:26,851 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:38:32,872 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:39:32,895 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:39:36,901 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:39:46,953 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:39:56,963 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:40:06,973 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:40:16,996 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:40:27,006 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:40:33,008 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:41:33,020 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:41:33,022 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:41:33,023 - MasterOrchestrator - INFO - Processing approved file: LINKEDIN_POST_engagement_20260218_192015.md
+2026-02-20 00:41:33,024 - MasterOrchestrator - INFO - Executing LinkedIn action...
+2026-02-20 00:42:03,901 - MasterOrchestrator - ERROR - Error executing LINKEDIN_POST_engagement_20260218_192015.md: 'charmap' codec can't encode character '\u2713' in position 41: character maps to <undefined>
+2026-02-20 00:42:07,908 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:42:17,925 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:42:27,952 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:42:33,957 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:43:33,980 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:43:37,986 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:43:47,994 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:43:58,020 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:44:08,030 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:44:18,039 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:44:28,048 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:44:34,050 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:45:34,070 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:45:38,078 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:45:48,087 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:45:58,095 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:46:04,113 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:46:08,119 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:46:14,161 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:46:18,167 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:46:24,173 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:46:28,179 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:46:34,184 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:47:34,199 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:47:34,201 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:47:38,207 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:47:44,214 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:47:48,220 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:47:54,224 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:47:58,234 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:48:04,243 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:48:08,249 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:48:14,255 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:48:18,264 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:48:24,269 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:48:28,278 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:48:34,315 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:49:34,330 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:49:34,331 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:49:38,336 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:49:44,342 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:49:48,384 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:49:54,393 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:49:58,729 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:50:04,952 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:50:09,056 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:50:15,196 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:50:19,203 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:50:25,287 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:50:29,295 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:50:35,320 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:51:35,376 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:51:35,378 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:51:39,384 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:51:45,391 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:51:49,409 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:51:55,415 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:51:59,421 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:52:05,468 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:52:09,554 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:52:15,560 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:52:19,569 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:52:25,576 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 00:52:29,635 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 00:52:35,642 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:53:35,663 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:53:39,701 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:53:49,724 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:53:59,815 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:54:09,853 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:54:19,864 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:54:29,875 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:54:35,878 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:55:35,898 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:55:39,908 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:55:49,919 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:56:00,166 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:56:10,806 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:56:20,938 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:56:30,969 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:56:36,004 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:57:36,030 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:57:41,103 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:57:51,269 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:58:01,340 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:58:11,351 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:58:21,375 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:58:31,384 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:58:36,387 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 00:59:36,398 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 00:59:41,406 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 00:59:51,425 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 01:00:01,437 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 01:00:11,444 - MasterOrchestrator - INFO - Status: 6 pending, 0 approved, 6 done
+2026-02-20 01:00:16,496 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:00:21,537 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:00:26,549 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:00:31,699 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:00:36,882 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 01:01:37,082 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 01:01:37,084 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:01:42,116 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:01:47,195 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:01:52,203 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:01:57,206 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:02:02,213 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:02:07,215 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:02:12,246 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:02:17,258 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:02:22,265 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:02:27,269 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:02:32,276 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:02:37,279 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 01:03:37,301 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 01:03:37,302 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:03:42,311 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:03:47,316 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:03:52,321 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:03:57,323 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:04:02,329 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:04:07,333 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:04:12,338 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:04:17,356 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:04:22,367 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:04:27,405 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:04:32,431 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:04:37,436 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 01:05:37,451 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 01:05:37,452 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:05:42,458 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:05:47,462 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:05:52,470 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:05:57,475 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:06:02,481 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:06:07,484 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:06:12,489 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:06:17,494 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:06:22,499 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:06:27,502 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:06:32,508 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:06:37,542 - MasterOrchestrator - INFO - Checking Gmail...
+2026-02-20 01:07:37,564 - MasterOrchestrator - ERROR - Error checking Gmail: Command '['C:\\Users\\Dell\\AppData\\Local\\Programs\\Python\\Python313\\python.exe', 'C:\\Users\\Dell\\Desktop\\New folder (3)\\AI_personal_Employee\\Platinum_Tier\\gmail_watcher_imap.py']' timed out after 60 seconds
+2026-02-20 01:07:37,565 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:07:42,591 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:07:47,597 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:07:52,614 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:07:57,618 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:08:02,635 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:08:07,643 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:08:12,649 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done
+2026-02-20 01:08:17,651 - MasterOrchestrator - INFO - Found 1 approved file(s)
+2026-02-20 01:08:22,681 - MasterOrchestrator - INFO - Status: 6 pending, 1 approved, 5 done

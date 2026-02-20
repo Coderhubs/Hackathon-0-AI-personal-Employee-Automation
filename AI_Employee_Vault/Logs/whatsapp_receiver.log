@@ -1,0 +1,41 @@
+2026-02-20 21:45:01,807 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.3:5000
+2026-02-20 21:45:01,808 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 21:45:21,074 - INFO - 127.0.0.1 - - [20/Feb/2026 21:45:21] "GET /health HTTP/1.1" 200 -
+2026-02-20 21:47:02,371 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:47:02,371 - INFO - Content: Hi
+2026-02-20 21:47:02,373 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_214702.txt
+2026-02-20 21:47:02,374 - INFO - 127.0.0.1 - - [20/Feb/2026 21:47:02] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:47:26,134 - INFO - 127.0.0.1 - - [20/Feb/2026 21:47:26] "GET /health HTTP/1.1" 200 -
+2026-02-20 21:47:36,926 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:47:36,927 - INFO - Content: Hi
+2026-02-20 21:47:36,931 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_214736.txt
+2026-02-20 21:47:36,932 - INFO - 127.0.0.1 - - [20/Feb/2026 21:47:36] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:48:24,152 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:48:24,152 - INFO - Content: Confirm
+2026-02-20 21:48:24,154 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_214824.txt
+2026-02-20 21:48:24,155 - INFO - 127.0.0.1 - - [20/Feb/2026 21:48:24] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:52:40,366 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:52:40,366 - INFO - Content: Hello
+2026-02-20 21:52:40,367 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_215240.txt
+2026-02-20 21:52:40,368 - INFO - 127.0.0.1 - - [20/Feb/2026 21:52:40] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:53:43,831 - INFO - 127.0.0.1 - - [20/Feb/2026 21:53:43] "GET /health HTTP/1.1" 200 -
+2026-02-20 21:54:28,072 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:54:28,073 - INFO - Content: Hi
+2026-02-20 21:54:28,075 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_215428.txt
+2026-02-20 21:54:28,076 - INFO - 127.0.0.1 - - [20/Feb/2026 21:54:28] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:58:01,190 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:58:01,190 - INFO - Content: Hello
+2026-02-20 21:58:01,191 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_215801.txt
+2026-02-20 21:58:01,192 - INFO - 127.0.0.1 - - [20/Feb/2026 21:58:01] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:58:53,180 - INFO - 127.0.0.1 - - [20/Feb/2026 21:58:53] "GET /health HTTP/1.1" 200 -
+2026-02-20 21:59:11,758 - INFO - [RECEIVED] Message from whatsapp: 923173851441
+2026-02-20 21:59:11,758 - INFO - Content: test
+2026-02-20 21:59:11,762 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_215911.txt
+2026-02-20 21:59:11,763 - INFO - 127.0.0.1 - - [20/Feb/2026 21:59:11] "POST /whatsapp HTTP/1.1" 200 -
+2026-02-20 21:59:58,973 - INFO - [RECEIVED] Message from whatsapp:+923173851441
+2026-02-20 21:59:58,973 - INFO - Content: Hi
+2026-02-20 21:59:58,975 - INFO - Saved to: WhatsApp_Vault\Inbox\MSG_20260220_215958.txt
+2026-02-20 21:59:58,976 - INFO - 127.0.0.1 - - [20/Feb/2026 21:59:58] "POST /whatsapp HTTP/1.1" 200 -
