@@ -7,6 +7,11 @@ Platinum_Tier/Platinum_Tier/browser_data/
 __pycache__/
 *.pyc
 
-# Environment
+# Environment & Secrets
 .env
+.whatsapp_config
 nul
+
+# Logs (may contain sensitive data)
+AI_Employee_Vault/Logs/*.log
+*.log
