@@ -28,6 +28,36 @@ This AI employee autonomously:
 
 ---
 
+## 📸 System Screenshots
+
+### Automation Tools in Action
+
+<div align="center">
+
+#### Gmail Automation Interface
+![Gmail Automation](automation_images/32778f64-46dd-4767-8a5f-14d017809260.jpg)
+*Real-time Gmail monitoring and automated email processing*
+
+#### LinkedIn Safety Dashboard
+![LinkedIn Safety](automation_images/4b9a4fd4-4631-4c90-9a11-3fa0091bead1.jpg)
+*Traffic light safety system preventing LinkedIn rate limits*
+
+#### WhatsApp Integration
+![WhatsApp Automation](automation_images/03f1b385-3711-424a-adc3-011d13ea7f65.jpg)
+*Automated WhatsApp messaging via Twilio API*
+
+#### Multi-Platform Monitoring
+![System Dashboard](automation_images/50381a93-74e5-41f6-8ea3-1f2bda69f3a9.jpg)
+*Unified monitoring across Gmail, LinkedIn, and WhatsApp*
+
+#### Human-in-the-Loop Workflow
+![Approval System](automation_images/fce7d47d-d8e1-4454-bf5e-726d23ec18ec.jpg)
+*Approval workflow with complete audit logging*
+
+</div>
+
+---
+
 ## ✨ Key Features
 
 ### ✅ Fully Working Components
